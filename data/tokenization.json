@@ -1,0 +1,100 @@
+{
+ "rows": [
+  {
+   "model": "qwen2.5:7b-instruct",
+   "repo": "Qwen/Qwen2.5-7B-Instruct",
+   "reference_tokens": 37,
+   "server_tokens": 37,
+   "delta": 0,
+   "ratio": 1.0,
+   "prompt_chars": 187
+  },
+  {
+   "model": "phi3:mini",
+   "repo": "microsoft/Phi-3-mini-4k-instruct",
+   "reference_tokens": 11,
+   "server_tokens": 17,
+   "delta": 6,
+   "ratio": 1.545,
+   "prompt_chars": 70
+  },
+  {
+   "model": "deepseek-coder:6.7b-instruct",
+   "repo": "deepseek-ai/deepseek-coder-6.7b-instruct",
+   "reference_tokens": 76,
+   "server_tokens": 77,
+   "delta": 1,
+   "ratio": 1.013,
+   "prompt_chars": 389
+  },
+  {
+   "model": "mistral:7b-instruct-v0.2-q4_0",
+   "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+   "reference_tokens": 16,
+   "server_tokens": 18,
+   "delta": 2,
+   "ratio": 1.125,
+   "prompt_chars": 58
+  },
+  {
+   "model": "llama3:latest",
+   "repo": "NousResearch/Meta-Llama-3-8B-Instruct",
+   "reference_tokens": 18,
+   "server_tokens": 19,
+   "delta": 1,
+   "ratio": 1.056,
+   "prompt_chars": 155
+  }
+ ],
+ "n_checked": 5,
+ "max_abs_delta": 6,
+ "max_ratio": 1.545,
+ "marker_probe": [
+  {
+   "model": "qwen2.5:7b-instruct",
+   "marker": "<|im_start|>",
+   "tokens_as_marker": 1,
+   "tokens_as_characters": 12,
+   "reference_tokens": 1,
+   "matches_reference": true,
+   "not_shattered": true
+  },
+  {
+   "model": "phi3:mini",
+   "marker": "<|system|>",
+   "tokens_as_marker": 1,
+   "tokens_as_characters": 10,
+   "reference_tokens": 1,
+   "matches_reference": true,
+   "not_shattered": true
+  },
+  {
+   "model": "deepseek-coder:6.7b-instruct",
+   "skipped": "template uses no bracketed marker"
+  },
+  {
+   "model": "mistral:7b-instruct-v0.2-q4_0",
+   "marker": "[INST]",
+   "tokens_as_marker": 4,
+   "tokens_as_characters": 7,
+   "reference_tokens": 3,
+   "matches_reference": false,
+   "not_shattered": true
+  },
+  {
+   "model": "llama3:latest",
+   "marker": "<|start_header_id|>",
+   "tokens_as_marker": 2,
+   "tokens_as_characters": 20,
+   "reference_tokens": 1,
+   "matches_reference": false,
+   "not_shattered": true
+  }
+ ],
+ "n_markers_checked": 4,
+ "markers_parsed_as_special": false,
+ "none_shattered": true,
+ "n_markers_matching_reference": 2,
+ "effect_checkpoints_match_reference": true,
+ "verdict": "markers intact"
+}

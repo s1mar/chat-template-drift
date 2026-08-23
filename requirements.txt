@@ -1,0 +1,14 @@
+# Versions used to produce and validate this artifact.
+# Only transformers and jinja2 affect the renderer-equivalence result. sentencepiece and tiktoken
+# are tokenizer backends: without them validate_renderer.py cannot load one of the eight
+# repositories it checks and reports it as skipped. huggingface-hub and datasets are needed only to
+# re-draw the frame from the Hub; every analysis step reads local files.
+transformers==5.14.1
+jinja2==3.1.6
+numpy==2.5.1
+scipy==1.18.0
+matplotlib
+huggingface-hub
+datasets
+sentencepiece
+tiktoken

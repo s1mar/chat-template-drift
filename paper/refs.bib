@@ -1,0 +1,212 @@
+% Every entry below was verified by FETCHING the source, not from memory and not from a search
+% summary. The VERIFIED line above each entry records what was checked and when. Verification lives
+% in COMMENTS, not in a `note` field: ACM-Reference-Format prints `note` into the rendered
+% bibliography, so an audit trail placed there ends up in the paper.
+%
+% A comment here is not verification of a quotation. The manuscript quotes no sentence from any of
+% these sources; every number attributed to one is wrapped in \lit{} and listed in
+% notes/citations_verified.md. Any future round that adds a quoted phrase must re-open that URL in
+% that round.
+
+% VERIFIED 2026-07-30, re-fetched and re-confirmed in rounds r3 and r5: title, six authors, arXiv
+% v1 23 Dec 2024. Numbers used: 1,262 prompt changes, 243 GitHub repositories, 21.9% documented in
+% commit messages; all three re-read from the abstract.
+% CORRECTED in r5: this was cited as an arXiv preprint. It is published, at MSR 2025 (IEEE/ACM 22nd
+% International Conference on Mining Software Repositories), pages 686-698, confirmed from the MSR
+% 2025 technical-papers programme. It is this paper's closest related work, so citing the
+% unrefereed version was the wrong metadata to show a reviewer.
+@inproceedings{tafreshipour2024prompting,
+  title     = {Prompting in the Wild: An Empirical Study of Prompt Evolution in
+               Software Repositories},
+  author    = {Tafreshipour, Mahan and Imani, Aaron and Huang, Eric and Almeida, Eduardo and
+               Zimmermann, Thomas and Ahmed, Iftekhar},
+  booktitle = {Proceedings of the IEEE/ACM 22nd International Conference on Mining Software
+               Repositories (MSR)},
+  pages     = {686--698},
+  year      = {2025},
+  doi       = {10.1109/MSR66628.2025.00106}
+}
+%% CR UPDATE 2026-08-29: arXiv url replaced by the publisher DOI, Crossref-verified this day
+%% (title, venue MSR 2025, pages 686-698 all match the Crossref record).
+
+% VERIFIED 2026-07-30: first page of the publisher PDF read directly as a page image. Title, three
+% authors, ICSE-SEIP '26, 12-18 April 2026, Rio de Janeiro, DOI and ACM reference block all read off
+% the page. Number used: 101 practitioner sources.
+%% RE-VERIFIED 2026-08-31: title, authors, year and pages 212-223 from the Crossref record; the
+%% 101-practitioner-sources figure re-confirmed from the paper's own abstract (154 sources screened,
+%% 101 included, 518 coded behavioural units). The ACM DL page returns 403 to fetching, which made
+%% this the one source an earlier round could not re-check; the open routes that DO answer are
+%% arxiv.org/abs/2510.00328 (preprint of the same work) and the author copy at
+%% kblincoe.github.io/publications/2026 ICSE SEIP vibe-coding.pdf. Cite the published version above;
+%% these are for re-verification only, so no url field is added.
+@inproceedings{fawzy2026vibepractice,
+  title     = {Vibe Coding in Practice: Motivations, Challenges, and a Future Outlook --
+               a Grey Literature Review},
+  author    = {Fawzy, Ahmed and Tahir, Amjed and Blincoe, Kelly},
+  booktitle = {Proceedings of the 48th IEEE/ACM International Conference on Software Engineering:
+               Software Engineering in Practice (ICSE-SEIP)},
+  pages     = {212--223},
+  year      = {2026},
+  address   = {Rio de Janeiro, Brazil},
+  doi       = {10.1145/3786583.3786866}
+}
+
+% VERIFIED 2026-07-30, re-fetched and re-confirmed in round r3: title, three authors, submitted
+% 23 May 2026. Number used: 162 survey participants, re-read from the abstract.
+@article{fawzy2026verification,
+  title   = {From Prompting to Verification: How Experience Shapes Vibe Coding Practices},
+  author  = {Fawzy, Ahmed and Tahir, Amjed and Blincoe, Kelly},
+  journal = {arXiv preprint arXiv:2605.24521},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2605.24521}
+}
+
+% VERIFIED 2026-07-30: title, ten authors, submitted 14 Aug 2023, ICLR 2024. CAUTION recorded: the
+% abstract introduces HumanEvalPack and never uses the string HumanEvalFix. The manuscript cites this
+% as the code-repair split of HumanEvalPack and never as a paper naming HumanEvalFix.
+% No number quoted.
+@inproceedings{muennighoff2024octopack,
+  title     = {OctoPack: Instruction Tuning Code Large Language Models},
+  author    = {Muennighoff, Niklas and Liu, Qian and Zebaze, Armel and Zheng, Qinkai and
+               Hui, Binyuan and Zhuo, Terry Yue and Singh, Swayam and Tang, Xiangru and
+               von Werra, Leandro and Longpre, Shayne},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2024},
+  url       = {https://openreview.net/forum?id=mw1PWNSWZP}
+}
+%% CR UPDATE 2026-08-29: arXiv url replaced by the OpenReview record of the ICLR 2024 version
+%% (venueid ICLR.cc/2024/Conference, spotlight), fetched from the OpenReview API this day.
+
+% VERIFIED 2026-07-30: title, nine authors, v1 5 Oct 2018, v2 Jan 2019. No number quoted.
+@inproceedings{mitchell2019modelcards,
+  title     = {Model Cards for Model Reporting},
+  author    = {Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and
+               Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah
+               and Gebru, Timnit},
+  booktitle = {Proceedings of the Conference on Fairness, Accountability, and Transparency (FAT*)},
+  pages     = {220--229},
+  year      = {2019},
+  doi       = {10.1145/3287560.3287596}
+}
+%% CR UPDATE 2026-08-29: arXiv url replaced by the ACM DOI, Crossref-verified this day
+%% (title, venue FAT* 2019, pages 220-229 all match the Crossref record).
+
+% VERIFIED 2026-07-30, re-confirmed r3, CORRECTED r6: five authors; the two numbers used, around 12%
+% of dependent packages impacted during non-major updates and 44% of manifesting breaking changes
+% introduced in minor and patch releases, were re-read verbatim from the author-hosted manuscript
+% first page on 2026-08-05.
+% CORRECTED in r6: cited as an arXiv preprint. It is published in ACM TOSEM 32(4), 2023,
+% doi 10.1145/3576037. Journal, volume, issue, pages and year taken from the OpenAlex record for that
+% DOI. NOTE for any future round: the author-hosted PDF at ime.usp.br carries an ACM reference block
+% reading "Proc. ACM Meas. Anal. Comput. Syst. 37, 4, Article 111 (October 2021)". That is the
+% acmart TEMPLATE PLACEHOLDER, not this paper's record. Do not copy metadata from it.
+@article{venturini2023depended,
+  title   = {I Depended on You and You Broke Me: An Empirical Study of Manifesting Breaking Changes
+             in Client Packages},
+  author  = {Venturini, Daniel and Cogo, Filipe Roseiro and Polato, Ivanilton and
+             Gerosa, Marco A and Wiese, Igor Scaliante},
+  journal = {ACM Transactions on Software Engineering and Methodology},
+  volume  = {32},
+  number  = {4},
+  pages   = {1--26},
+  year    = {2023},
+  doi     = {10.1145/3576037}
+}
+
+% VERIFIED 2026-07-30: title, five authors, submitted 16 Jun 2023, venue ICLR 2024. No number quoted.
+@inproceedings{olausson2024selfrepair,
+  title     = {Is Self-Repair a Silver Bullet for Code Generation?},
+  author    = {Olausson, Theo X. and Inala, Jeevana Priya and Wang, Chenglong and Gao, Jianfeng
+               and Solar-Lezama, Armando},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2024},
+  url       = {https://openreview.net/forum?id=y0GJXRungR}
+}
+%% CR UPDATE 2026-08-29: arXiv url replaced by the OpenReview record of the ICLR 2024 version
+%% (venueid ICLR.cc/2024/Conference), fetched from the OpenReview API this day.
+
+% VERIFIED 2026-07-30: title, two authors, submitted 15 Jul 2026. VeriHarness; raw diagnostics
+% versus feedback carrying failure location, observed value and admissible alternatives.
+% No number quoted.
+@article{ray2026structured,
+  title   = {Structured Feedback Improves Repair in an LLM Agent Loop},
+  author  = {Ray, Jaideep and Goyal, Ankit},
+  journal = {arXiv preprint arXiv:2607.14167},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2607.14167}
+}
+
+% VERIFIED 2026-07-30: title, single author, submitted 30 Jun 2026. Placebo-controlled decomposition
+% of self-repair feedback. No number quoted.
+@article{iscan2026falsification,
+  title   = {Falsification, Not Exposure: An Internally Preregistered Placebo-Controlled
+             Decomposition of Self-Repair Feedback in Frozen Small Code Models},
+  author  = {Iscan, Mehmet},
+  journal = {arXiv preprint arXiv:2606.31511},
+  year    = {2026},
+  url     = {https://arxiv.org/abs/2606.31511}
+}
+
+% VERIFIED 2026-07-30, re-fetched and re-confirmed in round r3: title, four authors, v1 17 Oct 2023,
+% ICLR 2024. Number used: performance differences of up to 76 accuracy points, on LLaMA-2-13B,
+% re-read verbatim from the abstract.
+@inproceedings{sclar2024formatspread,
+  title     = {Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design
+               or: How I learned to start worrying about prompt formatting},
+  author    = {Sclar, Melanie and Choi, Yejin and Tsvetkov, Yulia and Suhr, Alane},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  year      = {2024},
+  url       = {https://openreview.net/forum?id=RIu5lyNXjT}
+}
+%% CR UPDATE 2026-08-29: arXiv url replaced by the OpenReview record of the ICLR 2024 version
+%% (venueid ICLR.cc/2024/Conference, poster), fetched from the OpenReview API this day.
+
+% VERIFIED 2026-07-30, re-checked r5: title, three authors, arXiv v1 18 Jul 2023. No number quoted.
+% CORRECTED in r5: cited as an arXiv preprint; it is published in Harvard Data Science Review 6(2),
+% May 2024, DOI 10.1162/99608f92.5317da47.
+@article{chen2023chatgptdrift,
+  title   = {How Is ChatGPT's Behavior Changing Over Time?},
+  author  = {Chen, Lingjiao and Zaharia, Matei and Zou, James},
+  journal = {Harvard Data Science Review},
+  volume  = {6},
+  number  = {2},
+  year    = {2024},
+  doi     = {10.1162/99608f92.5317da47},
+  url     = {https://hdsr.mitpress.mit.edu/pub/y95zitmz}
+}
+
+% VERIFIED 2026-07-30: documentation page fetched. Documents the chat_template field and
+% apply_chat_template, the reference implementation the renderer is validated against.
+% No number quoted.
+% r6: access date and resolved version added. A living documentation page cited with no date is not
+% a citation to anything fixed, and this page is the reference implementation our renderer is
+% validated against. The `note` field is deliberate here and prints, unlike the verification comments
+% above: an access date for a web resource belongs in the rendered bibliography.
+@misc{hfchattemplating,
+  title        = {Chat Templates},
+  author       = {{Hugging Face}},
+  howpublished = {Transformers documentation},
+  year         = {2026},
+  note         = {Accessed 2026-08-05; page resolved to Transformers v5.14.0},
+  url          = {https://huggingface.co/docs/transformers/en/chat_templating}
+}
+
+% ADDED in round r6. VERIFIED 2026-08-05: page fetched. Title, byline (Matthew Carrigan) and date
+% (3 October 2023) read off the post. This is the announcement that introduced the `chat_template`
+% attribute, and it named the hazard: "Using a format different from the format a model was trained
+% with will usually cause severe, silent performance degradation." Cited because our own title uses
+% the word "silent" and a Hub-literate reviewer will know this post; not citing it would read as
+% claiming the hazard was unnamed. It names the hazard without measuring drift, which is the
+% distinction the contribution bullet now draws. NOT quoted in the manuscript: the sentence above is
+% recorded here as evidence, and the prose paraphrases rather than quotes.
+@misc{carrigan2023chattemplates,
+  title        = {Chat Templates: An End to the Silent Performance Killer},
+  author       = {Carrigan, Matthew},
+  howpublished = {Hugging Face blog},
+  year         = {2023},
+  url          = {https://huggingface.co/blog/chat-templates}
+}
+
+% REMOVED in round r3: liu2023evalplus (EvalPlus / HumanEval+). It was carried over from the rig's
+% provenance, but this paper grades every episode on the task's own VISIBLE test and never touches
+% the EvalPlus hidden suite, so citing it would claim a dependency the study does not have.

@@ -1,0 +1,18 @@
+{
+ "naive_alerts": 289,
+ "render_alerts": 137,
+ "suppressed_as_cosmetic": 136,
+ "undecidable": 16,
+ "pct_suppressed": 49.8,
+ "n_stranded_repos": 99,
+ "median_days_to_first_behavioural": 1.7,
+ "cost_seconds_per_model": 4.883,
+ "cost_ms_compute_only": 9.2,
+ "cost_fixture": "microsoft/Phi-3-mini-4k-instruct",
+ "n_probes": 6,
+ "selftest": {
+  "ok": true,
+  "distinct_renderings_detected": true,
+  "identical_template_stable": true
+ }
+}

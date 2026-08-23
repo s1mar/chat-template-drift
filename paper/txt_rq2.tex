@@ -1,0 +1,69 @@
+Across \NCheckpoints{} checkpoints and \NExecEpisodes{} episodes, \NUninformative{} of the template
+pairs turned out to render \emph{this} conversation identically despite differing on the probe set,
+because the edit only touches a branch this conversation does not take. Those pairs vary nothing and
+are excluded: an identical input producing an identical output is not evidence that the edit was
+harmless. That leaves \NFamily{} informative comparisons, and both outcome families are
+Holm-corrected across all \NFamily{}.
+
+\paragraph{The floor first, because it disqualifies the obvious metric.} Running the same template
+twice, byte-identical prompt and settings, changes the reply on \MinNoiseFloor\% of tasks for
+\ShortMistral{} and \ShortPhi{} but on \MaxNoiseFloor\% for \ShortDS{}. Response divergence is
+therefore useless as a drift signal on its own, since on \ShortDS{} it is near-saturated before any
+template changes at all. What survives replication is the executed outcome, and that is what we test.
+
+\paragraph{A template edit can make the request impossible.} \ShortMistral's original template
+raises on a system message. All \MistralRenderErr{} tasks fail before the model is reached, giving
+resolution \ResMistralA\% and contract compliance \ConMistralA\%. A later edit to the same
+repository, on the same weights, accepts system messages: resolution \ResMistralB\% and contract
+\ConMistralB\%. This is the one resolution comparison that survives Holm across all \NFamily{} tests
+($p_{\text{Holm}}=\MistralPHolmRes$; the contract swing also survives, at
+$p_{\text{Holm}}\,{\MistralPHolmCon}$), and it is categorical rather than statistical. A pipeline
+pinned to the earlier revision cannot send a system prompt at all, and one written against the later
+revision fails completely if it pulls the earlier one.
+
+\paragraph{A template edit can halve what a prompt suite asserts, and a later edit can restore it.}
+This is the strongest execution-grounded effect we observe, and it is a one-repository case study:
+it establishes that the failure occurs, not how often. On \ShortPhi{}, contract compliance runs
+\ConPhiA\%, then \ConPhiB\%, then \ConPhiC\% across the
+repository's three templates, while resolution runs \ResPhiA\%, \ResPhiB\%, \ResPhiC\%. Both
+contract transitions survive correction, down at $p_{\text{Holm}}\,{\PhiPHolmConDown}$ and back up
+at $p_{\text{Holm}}\,{\PhiPHolmConUp}$. The size of the swing is the operational point rather than the
+p-value: compliance halves at one edit and is restored at the next, a movement far outside the
+checkpoint's own replication floor. The middle template is the commit whose own message describes
+replacing the system role with the user role, which is what a halved compliance rate on a
+system-carried output contract looks like from the outside. The resolution swing over the same two
+transitions is large but does not survive correction across \NFamily{} tests
+($p_{\text{Holm}}=\PhiPHolmResDown$ and \PhiPHolmResUp); with only \PhiDiscDown{} and \PhiDiscUp{}
+discordant tasks the smallest p-value these exact tests can produce cannot clear a family of
+\NFamily{}, so the design is underpowered for these transitions and we report them as suggestive
+rather than as established or refuted.
+
+\paragraph{This is where a then-versus-now check fails.} Comparing \ShortPhi's first template with
+its last gives $p_{\text{Holm}}=\PhiFirstLastRes$ on resolution and a contract rate back to roughly
+where it started. The repository broke and then repaired itself. A check that compares only the
+current template against the one it was pinned at sees nothing, while what a consumer lived through
+was the window in between.
+
+\paragraph{Drift is often harmless.} \ShortDS{} ships \NVersDSCoder{} distinct
+templates and none of the \NDSPairs{} informative comparisons between them moves resolution detectably, the
+smallest being $p_{\text{Holm}}=\DSMinP$, with resolution staying between \ResDSCoderA\% and
+\ResDSCoderF\%. Of the \NFamily{} informative comparisons, \NSigRes{} survives correction on
+resolution and \NSigContract{} on contract compliance. The claim is not that template edits usually
+break things. It is that some do, that the ones that do cannot be told from the ones that do not
+without running the model, and that nothing in the tooling available when this study was run tells
+a consumer which kind has just landed.
+
+\paragraph{Two robustness checks, because both cut against us if they fail.} First, the excluded
+uninformative pairs are put back and everything is re-corrected over all \NAllPairs{} pairs. This is
+the \emph{more} conservative direction, since each restored pair contributes $p=1$ by construction
+and enlarges the family, and the counts are unchanged: \NAllSigRes{} on resolution and
+\NAllSigCon{} on contract. Second, each effect is read against its own checkpoint's replication
+discordance. \ShortPhi{} and \ShortMistral{} show \FloorDiscPhi{} and \FloorDiscMistral{}
+discordant tasks when a
+template is replayed against itself, against \PhiDiscDown{} and \PhiDiscUp{} for the two \ShortPhi{}
+transitions and \MistralDisc{} for \ShortMistral{}, so those effects sit well outside their own
+noise. \ShortMistral's floor is trivially clean, since its replicated arm fails to render every
+task; its effect rests on the categorical contrast above, not on that floor. \ShortQwen{} is the cautionary case in the other direction: replaying an identical prompt
+moves its resolution enough that the replication arm would itself test significant
+($p=\QwenFloorP$) against a zero-discordance null. Any single comparison on a checkpoint like that
+should be disbelieved, which is precisely why the floor is measured rather than assumed.

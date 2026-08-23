@@ -1,0 +1,19 @@
+PromptOps treats prompts as code: versioned, reviewed, and defended by a regression suite. The
+prompt a model actually reads is not the prompt a team writes. It is first rewritten by the model's
+\emph{chat template}, an executable Jinja program shipped inside the model repository, edited in
+place, with no version of its own. How often this hidden dependency changes, and with what
+behavioural consequence, has not been measured. We reconstruct the default-branch template history
+of \NFrame{} of the most-downloaded text-generation repositories on the Hugging Face Hub. A
+renderer validated byte-for-byte against the reference implementation decides whether each edit
+changes what the model is shown, and we run \NCheckpoints{} local checkpoints under their own
+repositories' historical templates. \PctDrifted\% of the repositories changed their template after
+first publishing one, and \PctEventsWeightSilent\% of the change events moved no weight file,
+invisible to a team that pinned the model and verified its weights; \PctEventsBeh\% of the
+decidable edits change what the model is shown. Much of the raw rate is launch-week churn, and we
+report the settled figure beside it: \PctBehSettledFrame\% of the frame saw such an edit land more
+than \SettledDays{} days after its first template. In a one-repository case study, an
+edit that dropped the system role halved output-contract compliance from \ConPhiA\% to \ConPhiB\%
+until a later edit largely restored it. \textsc{templatelock} pins what a template renders rather than
+what it says, separating the edits that matter from the ones that do not at \CostComputeMs{} ms per
+model. Until prompt pipelines version the template, pinning the prompt and the model does not pin
+the model's input.

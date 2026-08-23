@@ -1,0 +1,5 @@
+{
+ "drawn_utc": "2026-07-30T14:59:51.132632+00:00",
+ "n_candidates": 1000,
+ "rule": "pipeline_tag=text-generation, sort=downloads desc, take in order"
+}

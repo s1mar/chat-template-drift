@@ -1,0 +1,6002 @@
+[
+ {
+  "rank": 0,
+  "id": "Qwen/Qwen3-0.6B",
+  "downloads": 28544146,
+  "likes": 1464
+ },
+ {
+  "rank": 1,
+  "id": "facebook/opt-125m",
+  "downloads": 17345874,
+  "likes": 286
+ },
+ {
+  "rank": 2,
+  "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
+  "downloads": 16224334,
+  "likes": 18
+ },
+ {
+  "rank": 3,
+  "id": "Qwen/Qwen3-8B",
+  "downloads": 16046080,
+  "likes": 1260
+ },
+ {
+  "rank": 4,
+  "id": "Qwen/Qwen2.5-1.5B-Instruct",
+  "downloads": 14045291,
+  "likes": 785
+ },
+ {
+  "rank": 5,
+  "id": "openai-community/gpt2",
+  "downloads": 13683436,
+  "likes": 3382
+ },
+ {
+  "rank": 6,
+  "id": "Qwen/Qwen2.5-7B-Instruct",
+  "downloads": 12227435,
+  "likes": 1449
+ },
+ {
+  "rank": 7,
+  "id": "meta-llama/Llama-3.2-1B-Instruct",
+  "downloads": 10258268,
+  "likes": 1549
+ },
+ {
+  "rank": 8,
+  "id": "Qwen/Qwen3-Embedding-0.6B",
+  "downloads": 10184486,
+  "likes": 1132
+ },
+ {
+  "rank": 9,
+  "id": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+  "downloads": 10166794,
+  "likes": 518
+ },
+ {
+  "rank": 10,
+  "id": "Qwen/Qwen3-32B",
+  "downloads": 9655582,
+  "likes": 726
+ },
+ {
+  "rank": 11,
+  "id": "deepseek-ai/DeepSeek-R1",
+  "downloads": 9473051,
+  "likes": 13523
+ },
+ {
+  "rank": 12,
+  "id": "openai/gpt-oss-20b",
+  "downloads": 8305515,
+  "likes": 4859
+ },
+ {
+  "rank": 13,
+  "id": "meta-llama/Llama-3.1-8B-Instruct",
+  "downloads": 7927807,
+  "likes": 6423
+ },
+ {
+  "rank": 14,
+  "id": "Qwen/Qwen3-1.7B",
+  "downloads": 7497059,
+  "likes": 508
+ },
+ {
+  "rank": 15,
+  "id": "Qwen/Qwen2.5-3B-Instruct",
+  "downloads": 5807756,
+  "likes": 544
+ },
+ {
+  "rank": 16,
+  "id": "farbodtavakkoli/OTel-LLM-E4B-IT",
+  "downloads": 5570768,
+  "likes": 0
+ },
+ {
+  "rank": 17,
+  "id": "Qwen/Qwen2.5-0.5B-Instruct",
+  "downloads": 5570131,
+  "likes": 571
+ },
+ {
+  "rank": 18,
+  "id": "hmellor/tiny-random-LlamaForCausalLM",
+  "downloads": 5424201,
+  "likes": 0
+ },
+ {
+  "rank": 19,
+  "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
+  "downloads": 4576095,
+  "likes": 65
+ },
+ {
+  "rank": 20,
+  "id": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+  "downloads": 4573922,
+  "likes": 49
+ },
+ {
+  "rank": 21,
+  "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+  "downloads": 4417107,
+  "likes": 586
+ },
+ {
+  "rank": 22,
+  "id": "Qwen/Qwen3-4B",
+  "downloads": 4408091,
+  "likes": 667
+ },
+ {
+  "rank": 23,
+  "id": "openai/gpt-oss-120b",
+  "downloads": 4303156,
+  "likes": 5053
+ },
+ {
+  "rank": 24,
+  "id": "google/gemma-3-1b-it",
+  "downloads": 3859196,
+  "likes": 1072
+ },
+ {
+  "rank": 25,
+  "id": "ibm-granite/granite-4.1-8b",
+  "downloads": 3857201,
+  "likes": 237
+ },
+ {
+  "rank": 26,
+  "id": "Qwen/Qwen3-Embedding-8B",
+  "downloads": 3433656,
+  "likes": 764
+ },
+ {
+  "rank": 27,
+  "id": "Qwen/Qwen3-4B-Instruct-2507",
+  "downloads": 3429873,
+  "likes": 906
+ },
+ {
+  "rank": 28,
+  "id": "Qwen/Qwen2.5-14B-Instruct",
+  "downloads": 3424108,
+  "likes": 356
+ },
+ {
+  "rank": 29,
+  "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+  "downloads": 3341722,
+  "likes": 984
+ },
+ {
+  "rank": 30,
+  "id": "Qwen/Qwen2-1.5B-Instruct",
+  "downloads": 3182926,
+  "likes": 164
+ },
+ {
+  "rank": 31,
+  "id": "Qwen/Qwen3-30B-A3B",
+  "downloads": 3174447,
+  "likes": 913
+ },
+ {
+  "rank": 32,
+  "id": "zai-org/GLM-5.2-FP8",
+  "downloads": 3114158,
+  "likes": 241
+ },
+ {
+  "rank": 33,
+  "id": "Qwen/Qwen3-14B",
+  "downloads": 3052038,
+  "likes": 435
+ },
+ {
+  "rank": 34,
+  "id": "Qwen/Qwen3-Embedding-4B",
+  "downloads": 3050035,
+  "likes": 304
+ },
+ {
+  "rank": 35,
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct",
+  "downloads": 3046863,
+  "likes": 178
+ },
+ {
+  "rank": 36,
+  "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+  "downloads": 3046371,
+  "likes": 409
+ },
+ {
+  "rank": 37,
+  "id": "deepseek-ai/DeepSeek-V4-Flash",
+  "downloads": 2999612,
+  "likes": 1883
+ },
+ {
+  "rank": 38,
+  "id": "nvidia/Gemma-4-31B-IT-NVFP4",
+  "downloads": 2814909,
+  "likes": 545
+ },
+ {
+  "rank": 39,
+  "id": "Qwen/Qwen3-Reranker-0.6B",
+  "downloads": 2691622,
+  "likes": 381
+ },
+ {
+  "rank": 40,
+  "id": "Qwen/Qwen2.5-0.5B",
+  "downloads": 2657622,
+  "likes": 433
+ },
+ {
+  "rank": 41,
+  "id": "Qwen/Qwen3-Reranker-4B",
+  "downloads": 2634413,
+  "likes": 151
+ },
+ {
+  "rank": 42,
+  "id": "distilbert/distilgpt2",
+  "downloads": 2610762,
+  "likes": 635
+ },
+ {
+  "rank": 43,
+  "id": "deepreinforce-ai/Ornith-1.0-35B",
+  "downloads": 2530015,
+  "likes": 456
+ },
+ {
+  "rank": 44,
+  "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
+  "downloads": 2509848,
+  "likes": 1707
+ },
+ {
+  "rank": 45,
+  "id": "prism-ml/Bonsai-27B-gguf",
+  "downloads": 2455730,
+  "likes": 695
+ },
+ {
+  "rank": 46,
+  "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+  "downloads": 2453373,
+  "likes": 844
+ },
+ {
+  "rank": 47,
+  "id": "vikhyatk/moondream2",
+  "downloads": 2445928,
+  "likes": 1428
+ },
+ {
+  "rank": 48,
+  "id": "Qwen/Qwen3-Coder-Next-FP8",
+  "downloads": 2443149,
+  "likes": 165
+ },
+ {
+  "rank": 49,
+  "id": "Qwen/Qwen3-14B-AWQ",
+  "downloads": 2432987,
+  "likes": 71
+ },
+ {
+  "rank": 50,
+  "id": "EleutherAI/pythia-160m",
+  "downloads": 2384946,
+  "likes": 44
+ },
+ {
+  "rank": 51,
+  "id": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "downloads": 2292837,
+  "likes": 37
+ },
+ {
+  "rank": 52,
+  "id": "nvidia/Qwen3.6-27B-NVFP4",
+  "downloads": 2140354,
+  "likes": 409
+ },
+ {
+  "rank": 53,
+  "id": "zai-org/GLM-4.7-Flash",
+  "downloads": 2127302,
+  "likes": 1795
+ },
+ {
+  "rank": 54,
+  "id": "google/gemma-3-270m",
+  "downloads": 2057630,
+  "likes": 1057
+ },
+ {
+  "rank": 55,
+  "id": "HuggingFaceTB/SmolLM2-135M-Instruct",
+  "downloads": 2045496,
+  "likes": 380
+ },
+ {
+  "rank": 56,
+  "id": "deepreinforce-ai/Ornith-1.0-9B",
+  "downloads": 2022419,
+  "likes": 500
+ },
+ {
+  "rank": 57,
+  "id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "downloads": 2010762,
+  "likes": 822
+ },
+ {
+  "rank": 58,
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "downloads": 1984938,
+  "likes": 765
+ },
+ {
+  "rank": 59,
+  "id": "Qwen/Qwen3-32B-AWQ",
+  "downloads": 1974927,
+  "likes": 137
+ },
+ {
+  "rank": 60,
+  "id": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B",
+  "downloads": 1875245,
+  "likes": 1082
+ },
+ {
+  "rank": 61,
+  "id": "meta-llama/Meta-Llama-3-8B",
+  "downloads": 1803943,
+  "likes": 6618
+ },
+ {
+  "rank": 62,
+  "id": "ibm-research/PowerMoE-3b",
+  "downloads": 1802227,
+  "likes": 22
+ },
+ {
+  "rank": 63,
+  "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+  "downloads": 1797286,
+  "likes": 4
+ },
+ {
+  "rank": 64,
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-AWQ",
+  "downloads": 1784812,
+  "likes": 38
+ },
+ {
+  "rank": 65,
+  "id": "farbodtavakkoli/OTel-LLM-8B-A1B-IT",
+  "downloads": 1773144,
+  "likes": 0
+ },
+ {
+  "rank": 66,
+  "id": "meta-llama/Meta-Llama-3-8B-Instruct",
+  "downloads": 1763305,
+  "likes": 4774
+ },
+ {
+  "rank": 67,
+  "id": "meta-llama/Llama-3.2-1B",
+  "downloads": 1743857,
+  "likes": 2513
+ },
+ {
+  "rank": 68,
+  "id": "HuggingFaceTB/SmolLM2-135M",
+  "downloads": 1735419,
+  "likes": 218
+ },
+ {
+  "rank": 69,
+  "id": "nvidia/diffusiongemma-26B-A4B-it-NVFP4",
+  "downloads": 1710124,
+  "likes": 112
+ },
+ {
+  "rank": 70,
+  "id": "deepseek-ai/DeepSeek-V4-Pro",
+  "downloads": 1650651,
+  "likes": 5354
+ },
+ {
+  "rank": 71,
+  "id": "nvidia/GLM-5.2-NVFP4",
+  "downloads": 1631197,
+  "likes": 300
+ },
+ {
+  "rank": 72,
+  "id": "Qwen/Qwen3-0.6B-FP8",
+  "downloads": 1591590,
+  "likes": 62
+ },
+ {
+  "rank": 73,
+  "id": "Qwen/Qwen-72B",
+  "downloads": 1583297,
+  "likes": 360
+ },
+ {
+  "rank": 74,
+  "id": "apple/OpenELM-1_1B-Instruct",
+  "downloads": 1569523,
+  "likes": 75
+ },
+ {
+  "rank": 75,
+  "id": "meta-llama/Llama-3.2-3B-Instruct",
+  "downloads": 1555909,
+  "likes": 2381
+ },
+ {
+  "rank": 76,
+  "id": "meta-llama/Llama-3.1-8B",
+  "downloads": 1555368,
+  "likes": 2347
+ },
+ {
+  "rank": 77,
+  "id": "Qwen/Qwen2.5-32B-Instruct",
+  "downloads": 1550903,
+  "likes": 355
+ },
+ {
+  "rank": 78,
+  "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
+  "downloads": 1535595,
+  "likes": 1185
+ },
+ {
+  "rank": 79,
+  "id": "zai-org/GLM-5.2",
+  "downloads": 1527760,
+  "likes": 4661
+ },
+ {
+  "rank": 80,
+  "id": "openai-community/gpt2-large",
+  "downloads": 1526676,
+  "likes": 355
+ },
+ {
+  "rank": 81,
+  "id": "RedHatAI/Llama-3.2-1B-Instruct-FP8-dynamic",
+  "downloads": 1490043,
+  "likes": 4
+ },
+ {
+  "rank": 82,
+  "id": "google/gemma-4-31B-it-assistant",
+  "downloads": 1430012,
+  "likes": 317
+ },
+ {
+  "rank": 83,
+  "id": "nm-testing/SmolLM-1.7B-Instruct-quantized.w4a16",
+  "downloads": 1419359,
+  "likes": 0
+ },
+ {
+  "rank": 84,
+  "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8",
+  "downloads": 1408107,
+  "likes": 191
+ },
+ {
+  "rank": 85,
+  "id": "nvidia/DeepSeek-V4-Flash-NVFP4",
+  "downloads": 1299495,
+  "likes": 79
+ },
+ {
+  "rank": 86,
+  "id": "Qwen/Qwen2.5-72B-Instruct-AWQ",
+  "downloads": 1292724,
+  "likes": 78
+ },
+ {
+  "rank": 87,
+  "id": "deepseek-ai/DeepSeek-V2-Lite-Chat",
+  "downloads": 1284489,
+  "likes": 144
+ },
+ {
+  "rank": 88,
+  "id": "Qwen/Qwen2-0.5B",
+  "downloads": 1272250,
+  "likes": 169
+ },
+ {
+  "rank": 89,
+  "id": "microsoft/Phi-3.5-vision-instruct",
+  "downloads": 1262385,
+  "likes": 737
+ },
+ {
+  "rank": 90,
+  "id": "zai-org/GLM-5-FP8",
+  "downloads": 1256211,
+  "likes": 182
+ },
+ {
+  "rank": 91,
+  "id": "deepseek-ai/DeepSeek-V3.2",
+  "downloads": 1249575,
+  "likes": 1461
+ },
+ {
+  "rank": 92,
+  "id": "mistralai/Mistral-7B-Instruct-v0.2",
+  "downloads": 1240228,
+  "likes": 3194
+ },
+ {
+  "rank": 93,
+  "id": "microsoft/Phi-3.5-mini-instruct",
+  "downloads": 1229159,
+  "likes": 999
+ },
+ {
+  "rank": 94,
+  "id": "h2oai/h2ovl-mississippi-800m",
+  "downloads": 1215947,
+  "likes": 40
+ },
+ {
+  "rank": 95,
+  "id": "nvidia/Gemma-4-26B-A4B-NVFP4",
+  "downloads": 1212295,
+  "likes": 124
+ },
+ {
+  "rank": 96,
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct",
+  "downloads": 1202414,
+  "likes": 2087
+ },
+ {
+  "rank": 97,
+  "id": "h2oai/h2ovl-mississippi-2b",
+  "downloads": 1201920,
+  "likes": 43
+ },
+ {
+  "rank": 98,
+  "id": "QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ",
+  "downloads": 1199153,
+  "likes": 44
+ },
+ {
+  "rank": 99,
+  "id": "tiiuae/falcon-7b",
+  "downloads": 1198783,
+  "likes": 1104
+ },
+ {
+  "rank": 100,
+  "id": "sshleifer/tiny-gpt2",
+  "downloads": 1194533,
+  "likes": 36
+ },
+ {
+  "rank": 101,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4",
+  "downloads": 1176253,
+  "likes": 174
+ },
+ {
+  "rank": 102,
+  "id": "deepseek-ai/DeepSeek-V3",
+  "downloads": 1164433,
+  "likes": 4107
+ },
+ {
+  "rank": 103,
+  "id": "Alibaba-NLP/gte-Qwen2-1.5B-instruct",
+  "downloads": 1152471,
+  "likes": 236
+ },
+ {
+  "rank": 104,
+  "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-GPTQ",
+  "downloads": 1091963,
+  "likes": 10
+ },
+ {
+  "rank": 105,
+  "id": "Qwen/Qwen3-4B-Instruct-2507-FP8",
+  "downloads": 1081115,
+  "likes": 78
+ },
+ {
+  "rank": 106,
+  "id": "Qwen/Qwen2.5-Coder-7B",
+  "downloads": 1037993,
+  "likes": 159
+ },
+ {
+  "rank": 107,
+  "id": "trl-internal-testing/tiny-GptOssForCausalLM",
+  "downloads": 979499,
+  "likes": 4
+ },
+ {
+  "rank": 108,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+  "downloads": 952653,
+  "likes": 804
+ },
+ {
+  "rank": 109,
+  "id": "MiniMaxAI/MiniMax-M2.7",
+  "downloads": 933010,
+  "likes": 1232
+ },
+ {
+  "rank": 110,
+  "id": "hmellor/tiny-random-Gemma2ForCausalLM",
+  "downloads": 911467,
+  "likes": 0
+ },
+ {
+  "rank": 111,
+  "id": "microsoft/Phi-tiny-MoE-instruct",
+  "downloads": 910507,
+  "likes": 40
+ },
+ {
+  "rank": 112,
+  "id": "deepreinforce-ai/Ornith-1.0-35B-FP8",
+  "downloads": 906545,
+  "likes": 78
+ },
+ {
+  "rank": 113,
+  "id": "Qwen/Qwen2.5-7B",
+  "downloads": 900643,
+  "likes": 301
+ },
+ {
+  "rank": 114,
+  "id": "EleutherAI/gpt-neox-20b",
+  "downloads": 894688,
+  "likes": 583
+ },
+ {
+  "rank": 115,
+  "id": "vcruz305/Hy3-GGUF",
+  "downloads": 889293,
+  "likes": 19
+ },
+ {
+  "rank": 116,
+  "id": "Qwen/Qwen3-8B-AWQ",
+  "downloads": 880524,
+  "likes": 52
+ },
+ {
+  "rank": 117,
+  "id": "deepseek-ai/DeepSeek-V3-0324",
+  "downloads": 876364,
+  "likes": 3150
+ },
+ {
+  "rank": 118,
+  "id": "Qwen/Qwen3-0.6B-Base",
+  "downloads": 869387,
+  "likes": 178
+ },
+ {
+  "rank": 119,
+  "id": "HuggingFaceTB/SmolLM3-3B",
+  "downloads": 865557,
+  "likes": 987
+ },
+ {
+  "rank": 120,
+  "id": "bigscience/bloomz-560m",
+  "downloads": 864755,
+  "likes": 137
+ },
+ {
+  "rank": 121,
+  "id": "Qwen/Qwen2.5-1.5B-Instruct-AWQ",
+  "downloads": 855828,
+  "likes": 7
+ },
+ {
+  "rank": 122,
+  "id": "Qwen/Qwen3-8B-FP8",
+  "downloads": 853682,
+  "likes": 62
+ },
+ {
+  "rank": 123,
+  "id": "state-spaces/mamba-130m-hf",
+  "downloads": 846046,
+  "likes": 73
+ },
+ {
+  "rank": 124,
+  "id": "RedHatAI/Qwen2.5-1.5B-quantized.w8a8",
+  "downloads": 843950,
+  "likes": 4
+ },
+ {
+  "rank": 125,
+  "id": "cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit",
+  "downloads": 842349,
+  "likes": 32
+ },
+ {
+  "rank": 126,
+  "id": "Qwen/Qwen2.5-1.5B",
+  "downloads": 835684,
+  "likes": 201
+ },
+ {
+  "rank": 127,
+  "id": "meta-llama/Llama-3.1-70B-Instruct",
+  "downloads": 820853,
+  "likes": 937
+ },
+ {
+  "rank": 128,
+  "id": "microsoft/phi-2",
+  "downloads": 820103,
+  "likes": 3497
+ },
+ {
+  "rank": 129,
+  "id": "Qwen/Qwen3-1.7B-Base",
+  "downloads": 820052,
+  "likes": 75
+ },
+ {
+  "rank": 130,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
+  "downloads": 815756,
+  "likes": 1583
+ },
+ {
+  "rank": 131,
+  "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+  "downloads": 812282,
+  "likes": 411
+ },
+ {
+  "rank": 132,
+  "id": "trl-internal-testing/tiny-Qwen3ForCausalLM",
+  "downloads": 802218,
+  "likes": 1
+ },
+ {
+  "rank": 133,
+  "id": "RedHatAI/Llama-3.2-1B-Instruct-FP8",
+  "downloads": 770892,
+  "likes": 4
+ },
+ {
+  "rank": 134,
+  "id": "Qwen/Qwen3-235B-A22B",
+  "downloads": 762501,
+  "likes": 1102
+ },
+ {
+  "rank": 135,
+  "id": "MiniMaxAI/MiniMax-M2.5",
+  "downloads": 758193,
+  "likes": 1501
+ },
+ {
+  "rank": 136,
+  "id": "Qwen/Qwen2.5-32B-Instruct-AWQ",
+  "downloads": 737691,
+  "likes": 102
+ },
+ {
+  "rank": 137,
+  "id": "meta-llama/Llama-2-7b-hf",
+  "downloads": 734866,
+  "likes": 2354
+ },
+ {
+  "rank": 138,
+  "id": "trl-internal-testing/tiny-Qwen3MoeForCausalLM",
+  "downloads": 733856,
+  "likes": 1
+ },
+ {
+  "rank": 139,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16",
+  "downloads": 721672,
+  "likes": 105
+ },
+ {
+  "rank": 140,
+  "id": "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4",
+  "downloads": 711719,
+  "likes": 6
+ },
+ {
+  "rank": 141,
+  "id": "openbmb/MiniCPM5-1B",
+  "downloads": 701873,
+  "likes": 1022
+ },
+ {
+  "rank": 142,
+  "id": "mtgv/MobileLLaMA-1.4B-Chat",
+  "downloads": 698293,
+  "likes": 21
+ },
+ {
+  "rank": 143,
+  "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+  "downloads": 697666,
+  "likes": 1106
+ },
+ {
+  "rank": 144,
+  "id": "livekit/turn-detector",
+  "downloads": 690117,
+  "likes": 127
+ },
+ {
+  "rank": 145,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-70B",
+  "downloads": 688164,
+  "likes": 790
+ },
+ {
+  "rank": 146,
+  "id": "EleutherAI/pythia-70m-deduped",
+  "downloads": 687989,
+  "likes": 29
+ },
+ {
+  "rank": 147,
+  "id": "Qwen/Qwen3-4B-Base",
+  "downloads": 687252,
+  "likes": 96
+ },
+ {
+  "rank": 148,
+  "id": "meta-llama/Llama-2-7b-chat-hf",
+  "downloads": 683786,
+  "likes": 4812
+ },
+ {
+  "rank": 149,
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct",
+  "downloads": 682696,
+  "likes": 133
+ },
+ {
+  "rank": 150,
+  "id": "antirez/deepseek-v4-gguf",
+  "downloads": 682599,
+  "likes": 347
+ },
+ {
+  "rank": 151,
+  "id": "microsoft/phi-4",
+  "downloads": 675636,
+  "likes": 2283
+ },
+ {
+  "rank": 152,
+  "id": "RedHatAI/Qwen3-Coder-Next-FP8-dynamic",
+  "downloads": 666231,
+  "likes": 2
+ },
+ {
+  "rank": 153,
+  "id": "Qwen/Qwen3-Coder-Next",
+  "downloads": 658639,
+  "likes": 1563
+ },
+ {
+  "rank": 154,
+  "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
+  "downloads": 643177,
+  "likes": 218
+ },
+ {
+  "rank": 155,
+  "id": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+  "downloads": 642428,
+  "likes": 303
+ },
+ {
+  "rank": 156,
+  "id": "bigscience/bloom-560m",
+  "downloads": 638099,
+  "likes": 376
+ },
+ {
+  "rank": 157,
+  "id": "deepreinforce-ai/Ornith-1.0-397B-FP8",
+  "downloads": 631142,
+  "likes": 180
+ },
+ {
+  "rank": 158,
+  "id": "peft-internal-testing/tiny-random-OPTForCausalLM",
+  "downloads": 627719,
+  "likes": 0
+ },
+ {
+  "rank": 159,
+  "id": "XiaomiMiMo/MiMo-7B-RL",
+  "downloads": 626169,
+  "likes": 277
+ },
+ {
+  "rank": 160,
+  "id": "Qwen/Qwen2-7B-Instruct",
+  "downloads": 623332,
+  "likes": 687
+ },
+ {
+  "rank": 161,
+  "id": "google/gemma-2-2b-it",
+  "downloads": 607534,
+  "likes": 1434
+ },
+ {
+  "rank": 162,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
+  "downloads": 600051,
+  "likes": 1545
+ },
+ {
+  "rank": 163,
+  "id": "TIGER-Lab/VLM2Vec-Full",
+  "downloads": 597401,
+  "likes": 29
+ },
+ {
+  "rank": 164,
+  "id": "openai-community/gpt2-medium",
+  "downloads": 593356,
+  "likes": 205
+ },
+ {
+  "rank": 165,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+  "downloads": 592164,
+  "likes": 666
+ },
+ {
+  "rank": 166,
+  "id": "sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP",
+  "downloads": 590302,
+  "likes": 80
+ },
+ {
+  "rank": 167,
+  "id": "nvidia/Kimi-K2.7-Code-NVFP4",
+  "downloads": 587186,
+  "likes": 9
+ },
+ {
+  "rank": 168,
+  "id": "nvidia/MiniMax-M3-NVFP4",
+  "downloads": 584358,
+  "likes": 70
+ },
+ {
+  "rank": 169,
+  "id": "boboliu/Qwen3-Embedding-4B-W4A16-G128",
+  "downloads": 579200,
+  "likes": 5
+ },
+ {
+  "rank": 170,
+  "id": "boboliu/Qwen3-Reranker-4B-W4A16-G128",
+  "downloads": 577616,
+  "likes": 2
+ },
+ {
+  "rank": 171,
+  "id": "Qwen/Qwen3-30B-A3B-Instruct-2507-FP8",
+  "downloads": 569187,
+  "likes": 130
+ },
+ {
+  "rank": 172,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-FP8",
+  "downloads": 565082,
+  "likes": 353
+ },
+ {
+  "rank": 173,
+  "id": "Qwen/Qwen3-Reranker-8B",
+  "downloads": 563463,
+  "likes": 252
+ },
+ {
+  "rank": 174,
+  "id": "mistralai/Mistral-7B-v0.1",
+  "downloads": 562091,
+  "likes": 4134
+ },
+ {
+  "rank": 175,
+  "id": "nvidia/Kimi-K2.6-NVFP4",
+  "downloads": 561482,
+  "likes": 42
+ },
+ {
+  "rank": 176,
+  "id": "LiquidAI/LFM2.5-1.2B-Instruct",
+  "downloads": 560324,
+  "likes": 641
+ },
+ {
+  "rank": 177,
+  "id": "unsloth/gpt-oss-20b-GGUF",
+  "downloads": 557394,
+  "likes": 752
+ },
+ {
+  "rank": 178,
+  "id": "meta-llama/Llama-3.3-70B-Instruct",
+  "downloads": 557271,
+  "likes": 2926
+ },
+ {
+  "rank": 179,
+  "id": "Orion-zhen/Qwen2.5-Coder-7B-Instruct-AWQ",
+  "downloads": 554702,
+  "likes": 1
+ },
+ {
+  "rank": 180,
+  "id": "microsoft/Phi-4-multimodal-instruct",
+  "downloads": 551828,
+  "likes": 1609
+ },
+ {
+  "rank": 181,
+  "id": "xlnet/xlnet-base-cased",
+  "downloads": 548654,
+  "likes": 82
+ },
+ {
+  "rank": 182,
+  "id": "microsoft/Phi-3-mini-4k-instruct",
+  "downloads": 546567,
+  "likes": 1448
+ },
+ {
+  "rank": 183,
+  "id": "shibing624/macbert4csc-base-chinese",
+  "downloads": 541120,
+  "likes": 119
+ },
+ {
+  "rank": 184,
+  "id": "deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct",
+  "downloads": 540469,
+  "likes": 627
+ },
+ {
+  "rank": 185,
+  "id": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "downloads": 537901,
+  "likes": 474
+ },
+ {
+  "rank": 186,
+  "id": "meta-llama/Llama-3.2-3B",
+  "downloads": 534218,
+  "likes": 881
+ },
+ {
+  "rank": 187,
+  "id": "allenai/OLMo-2-0425-1B",
+  "downloads": 533107,
+  "likes": 80
+ },
+ {
+  "rank": 188,
+  "id": "Qwen/Qwen3-4B-AWQ",
+  "downloads": 533082,
+  "likes": 31
+ },
+ {
+  "rank": 189,
+  "id": "speakleash/Bielik-11B-v3.0-Instruct",
+  "downloads": 530795,
+  "likes": 78
+ },
+ {
+  "rank": 190,
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GPTQ-Int4",
+  "downloads": 529770,
+  "likes": 14
+ },
+ {
+  "rank": 191,
+  "id": "trl-internal-testing/tiny-random-LlamaForCausalLM",
+  "downloads": 529736,
+  "likes": 8
+ },
+ {
+  "rank": 192,
+  "id": "google/gemma-3-270m-it",
+  "downloads": 521528,
+  "likes": 607
+ },
+ {
+  "rank": 193,
+  "id": "Qwen/Qwen2.5-72B-Instruct",
+  "downloads": 520933,
+  "likes": 966
+ },
+ {
+  "rank": 194,
+  "id": "cyankiwi/Qwen3-Coder-30B-A3B-Instruct-AWQ-4bit",
+  "downloads": 519325,
+  "likes": 56
+ },
+ {
+  "rank": 195,
+  "id": "deepseek-ai/deepseek-coder-7b-instruct-v1.5",
+  "downloads": 513603,
+  "likes": 158
+ },
+ {
+  "rank": 196,
+  "id": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct",
+  "downloads": 507205,
+  "likes": 158
+ },
+ {
+  "rank": 197,
+  "id": "HuggingFaceTB/SmolLM2-360M-Instruct",
+  "downloads": 506579,
+  "likes": 205
+ },
+ {
+  "rank": 198,
+  "id": "zai-org/GLM-5.1-FP8",
+  "downloads": 501514,
+  "likes": 119
+ },
+ {
+  "rank": 199,
+  "id": "deepseek-ai/DeepSeek-V2-Lite",
+  "downloads": 497771,
+  "likes": 183
+ },
+ {
+  "rank": 200,
+  "id": "RedHatAI/Meta-Llama-3.1-8B-Instruct-FP8",
+  "downloads": 491460,
+  "likes": 44
+ },
+ {
+  "rank": 201,
+  "id": "zai-org/GLM-4.5-Air",
+  "downloads": 488656,
+  "likes": 622
+ },
+ {
+  "rank": 202,
+  "id": "NousResearch/Meta-Llama-3.1-8B-Instruct",
+  "downloads": 487680,
+  "likes": 40
+ },
+ {
+  "rank": 203,
+  "id": "TitanML/tiny-mixtral",
+  "downloads": 485649,
+  "likes": 2
+ },
+ {
+  "rank": 204,
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-AWQ",
+  "downloads": 479494,
+  "likes": 26
+ },
+ {
+  "rank": 205,
+  "id": "typhoon-ai/typhoon2.5-qwen3-4b",
+  "downloads": 471826,
+  "likes": 6
+ },
+ {
+  "rank": 206,
+  "id": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int4",
+  "downloads": 471234,
+  "likes": 40
+ },
+ {
+  "rank": 207,
+  "id": "deepseek-ai/deepseek-coder-6.7b-instruct",
+  "downloads": 467015,
+  "likes": 505
+ },
+ {
+  "rank": 208,
+  "id": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
+  "downloads": 462651,
+  "likes": 226
+ },
+ {
+  "rank": 209,
+  "id": "trl-internal-testing/tiny-Glm4MoeForCausalLM",
+  "downloads": 458562,
+  "likes": 0
+ },
+ {
+  "rank": 210,
+  "id": "mlabonne/Qwen3-30B-A3B-abliterated",
+  "downloads": 454700,
+  "likes": 39
+ },
+ {
+  "rank": 211,
+  "id": "Qwen/Qwen3-14B-FP8",
+  "downloads": 452821,
+  "likes": 48
+ },
+ {
+  "rank": 212,
+  "id": "trl-internal-testing/tiny-NemotronHForCausalLM-nano",
+  "downloads": 452339,
+  "likes": 0
+ },
+ {
+  "rank": 213,
+  "id": "meta-llama/Llama-3.1-405B-FP8",
+  "downloads": 452044,
+  "likes": 123
+ },
+ {
+  "rank": 214,
+  "id": "microsoft/Phi-4-mini-instruct",
+  "downloads": 451575,
+  "likes": 801
+ },
+ {
+  "rank": 215,
+  "id": "dots-studio/dots.ocr",
+  "downloads": 448953,
+  "likes": 1318
+ },
+ {
+  "rank": 216,
+  "id": "deepreinforce-ai/Ornith-1.0-397B",
+  "downloads": 435388,
+  "likes": 251
+ },
+ {
+  "rank": 217,
+  "id": "nvidia/Nemotron-Labs-Diffusion-8B-Base",
+  "downloads": 433947,
+  "likes": 7
+ },
+ {
+  "rank": 218,
+  "id": "unsloth/Qwen2.5-3B-Instruct-unsloth-bnb-4bit",
+  "downloads": 429273,
+  "likes": 7
+ },
+ {
+  "rank": 219,
+  "id": "Zyphra/Zamba2-1.2B-instruct",
+  "downloads": 426270,
+  "likes": 32
+ },
+ {
+  "rank": 220,
+  "id": "Qwen/Qwen3-8B-Base",
+  "downloads": 426049,
+  "likes": 112
+ },
+ {
+  "rank": 221,
+  "id": "unsloth/Qwen2.5-14B-Instruct",
+  "downloads": 425028,
+  "likes": 11
+ },
+ {
+  "rank": 222,
+  "id": "AngelSlim/Hy3-GGUF",
+  "downloads": 424434,
+  "likes": 174
+ },
+ {
+  "rank": 223,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Llama-8B",
+  "downloads": 420321,
+  "likes": 872
+ },
+ {
+  "rank": 224,
+  "id": "cyankiwi/GLM-4.7-Flash-AWQ-4bit",
+  "downloads": 418434,
+  "likes": 56
+ },
+ {
+  "rank": 225,
+  "id": "IlyaGusev/saiga_llama3_8b",
+  "downloads": 417733,
+  "likes": 143
+ },
+ {
+  "rank": 226,
+  "id": "trl-internal-testing/tiny-RemoteForCausalLM",
+  "downloads": 417381,
+  "likes": 0
+ },
+ {
+  "rank": 227,
+  "id": "trl-internal-testing/tiny-Cohere2ForCausalLM",
+  "downloads": 410170,
+  "likes": 0
+ },
+ {
+  "rank": 228,
+  "id": "ibm-granite/granite-docling-258M",
+  "downloads": 408581,
+  "likes": 1234
+ },
+ {
+  "rank": 229,
+  "id": "GSAI-ML/LLaDA-8B-Instruct",
+  "downloads": 401165,
+  "likes": 359
+ },
+ {
+  "rank": 230,
+  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+  "downloads": 400218,
+  "likes": 1336
+ },
+ {
+  "rank": 231,
+  "id": "Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24",
+  "downloads": 398134,
+  "likes": 141
+ },
+ {
+  "rank": 232,
+  "id": "nvidia/NVIDIA-Nemotron-Nano-12B-v2",
+  "downloads": 397203,
+  "likes": 164
+ },
+ {
+  "rank": 233,
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-AWQ",
+  "downloads": 389727,
+  "likes": 21
+ },
+ {
+  "rank": 234,
+  "id": "hmellor/Ilama-3.2-1B",
+  "downloads": 385101,
+  "likes": 0
+ },
+ {
+  "rank": 235,
+  "id": "bosonai/higgs-tts-3-4b",
+  "downloads": 383830,
+  "likes": 683
+ },
+ {
+  "rank": 236,
+  "id": "rinna/japanese-gpt-neox-small",
+  "downloads": 383078,
+  "likes": 15
+ },
+ {
+  "rank": 237,
+  "id": "Qwen/QwQ-32B",
+  "downloads": 379904,
+  "likes": 2953
+ },
+ {
+  "rank": 238,
+  "id": "ibm-granite/granite-4.1-3b",
+  "downloads": 379477,
+  "likes": 98
+ },
+ {
+  "rank": 239,
+  "id": "unsloth/Meta-Llama-3.1-8B-Instruct",
+  "downloads": 378961,
+  "likes": 98
+ },
+ {
+  "rank": 240,
+  "id": "unsloth/mistral-7b-v0.3-bnb-4bit",
+  "downloads": 378128,
+  "likes": 22
+ },
+ {
+  "rank": 241,
+  "id": "nvidia/DeepSeek-R1-0528-NVFP4-v2",
+  "downloads": 377290,
+  "likes": 23
+ },
+ {
+  "rank": 242,
+  "id": "ATH-MaaS/Ovis2.5-9B",
+  "downloads": 376869,
+  "likes": 308
+ },
+ {
+  "rank": 243,
+  "id": "lightonai/LightOnOCR-2-1B",
+  "downloads": 371403,
+  "likes": 777
+ },
+ {
+  "rank": 244,
+  "id": "trl-internal-testing/tiny-LlamaForCausalLM-3.2",
+  "downloads": 369079,
+  "likes": 1
+ },
+ {
+  "rank": 245,
+  "id": "hugging-quants/gemma-2-9b-it-AWQ-INT4",
+  "downloads": 367296,
+  "likes": 9
+ },
+ {
+  "rank": 246,
+  "id": "internlm/Intern-S1-Pro",
+  "downloads": 366202,
+  "likes": 279
+ },
+ {
+  "rank": 247,
+  "id": "nvidia/Qwen3.5-397B-A17B-NVFP4",
+  "downloads": 363365,
+  "likes": 105
+ },
+ {
+  "rank": 248,
+  "id": "allenai/Olmo-3-7B-Instruct",
+  "downloads": 362743,
+  "likes": 141
+ },
+ {
+  "rank": 249,
+  "id": "google/gemma-2-9b-it",
+  "downloads": 356692,
+  "likes": 842
+ },
+ {
+  "rank": 250,
+  "id": "mlx-community/gpt-oss-20b-MXFP4-Q8",
+  "downloads": 355299,
+  "likes": 79
+ },
+ {
+  "rank": 251,
+  "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
+  "downloads": 353896,
+  "likes": 299
+ },
+ {
+  "rank": 252,
+  "id": "ai4bharat/indic-parler-tts",
+  "downloads": 353418,
+  "likes": 276
+ },
+ {
+  "rank": 253,
+  "id": "hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF",
+  "downloads": 353032,
+  "likes": 51
+ },
+ {
+  "rank": 254,
+  "id": "QCRI/Fanar-1-9B-Instruct",
+  "downloads": 345473,
+  "likes": 33
+ },
+ {
+  "rank": 255,
+  "id": "unsloth/GLM-4.5-Air",
+  "downloads": 344597,
+  "likes": 8
+ },
+ {
+  "rank": 256,
+  "id": "allenai/Olmo-3-7B-Instruct-SFT",
+  "downloads": 340882,
+  "likes": 5
+ },
+ {
+  "rank": 257,
+  "id": "XiaomiMiMo/MiMo-V2.5",
+  "downloads": 339077,
+  "likes": 373
+ },
+ {
+  "rank": 258,
+  "id": "nvidia/Kimi-K2.5-NVFP4",
+  "downloads": 335987,
+  "likes": 86
+ },
+ {
+  "rank": 259,
+  "id": "Qwen/Qwen3-Next-80B-A3B-Instruct-FP8",
+  "downloads": 335819,
+  "likes": 89
+ },
+ {
+  "rank": 260,
+  "id": "speakleash/Bielik-11B-v3.0-Instruct-awq",
+  "downloads": 334308,
+  "likes": 3
+ },
+ {
+  "rank": 261,
+  "id": "trl-internal-testing/tiny-Gemma2ForCausalLM",
+  "downloads": 332804,
+  "likes": 1
+ },
+ {
+  "rank": 262,
+  "id": "EleutherAI/gpt-neo-125m",
+  "downloads": 329915,
+  "likes": 228
+ },
+ {
+  "rank": 263,
+  "id": "swiss-ai/Apertus-8B-Instruct-2509",
+  "downloads": 325955,
+  "likes": 482
+ },
+ {
+  "rank": 264,
+  "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+  "downloads": 325452,
+  "likes": 310
+ },
+ {
+  "rank": 265,
+  "id": "Qwen/Qwen3-4B-Thinking-2507",
+  "downloads": 325226,
+  "likes": 608
+ },
+ {
+  "rank": 266,
+  "id": "llamafactory/tiny-random-Llama-3",
+  "downloads": 323167,
+  "likes": 4
+ },
+ {
+  "rank": 267,
+  "id": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct-AWQ",
+  "downloads": 321708,
+  "likes": 18
+ },
+ {
+  "rank": 268,
+  "id": "trl-internal-testing/tiny-CohereForCausalLM",
+  "downloads": 319840,
+  "likes": 0
+ },
+ {
+  "rank": 269,
+  "id": "Qwen/Qwen2-0.5B-Instruct",
+  "downloads": 316905,
+  "likes": 201
+ },
+ {
+  "rank": 270,
+  "id": "unsloth/Qwen3-8B-GGUF",
+  "downloads": 314165,
+  "likes": 141
+ },
+ {
+  "rank": 271,
+  "id": "janhq/Jan-v3.5-4B-gguf",
+  "downloads": 313807,
+  "likes": 29
+ },
+ {
+  "rank": 272,
+  "id": "unsloth/Qwen3-Embedding-4B",
+  "downloads": 312533,
+  "likes": 4
+ },
+ {
+  "rank": 273,
+  "id": "NousResearch/Llama-2-7b-hf",
+  "downloads": 309011,
+  "likes": 175
+ },
+ {
+  "rank": 274,
+  "id": "cyankiwi/Qwen3-30B-A3B-Thinking-2507-AWQ-4bit",
+  "downloads": 306994,
+  "likes": 15
+ },
+ {
+  "rank": 275,
+  "id": "Qwen/Qwen2.5-7B-Instruct-GPTQ-Int4",
+  "downloads": 304660,
+  "likes": 33
+ },
+ {
+  "rank": 276,
+  "id": "nvidia/NVIDIA-Nemotron-Nano-9B-v2",
+  "downloads": 304425,
+  "likes": 506
+ },
+ {
+  "rank": 277,
+  "id": "trl-internal-testing/tiny-LlamaForCausalLM-3",
+  "downloads": 300935,
+  "likes": 0
+ },
+ {
+  "rank": 278,
+  "id": "unsloth/Llama-3.2-1B-Instruct",
+  "downloads": 300869,
+  "likes": 102
+ },
+ {
+  "rank": 279,
+  "id": "trl-internal-testing/tiny-GemmaForCausalLM",
+  "downloads": 300778,
+  "likes": 0
+ },
+ {
+  "rank": 280,
+  "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8",
+  "downloads": 300757,
+  "likes": 159
+ },
+ {
+  "rank": 281,
+  "id": "unsloth/GLM-4.7-Flash",
+  "downloads": 299076,
+  "likes": 15
+ },
+ {
+  "rank": 282,
+  "id": "huggyllama/llama-7b",
+  "downloads": 299037,
+  "likes": 360
+ },
+ {
+  "rank": 283,
+  "id": "Qwen/Qwen2.5-3B",
+  "downloads": 297220,
+  "likes": 199
+ },
+ {
+  "rank": 284,
+  "id": "unsloth/GLM-5.2-GGUF",
+  "downloads": 297217,
+  "likes": 612
+ },
+ {
+  "rank": 285,
+  "id": "LiquidAI/LFM2.5-1.2B-Instruct-GGUF",
+  "downloads": 296358,
+  "likes": 198
+ },
+ {
+  "rank": 286,
+  "id": "Qwen/Qwen3-Next-80B-A3B-Instruct",
+  "downloads": 295182,
+  "likes": 1040
+ },
+ {
+  "rank": 287,
+  "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "downloads": 293870,
+  "likes": 866
+ },
+ {
+  "rank": 288,
+  "id": "XiaomiMiMo/MiMo-7B-Base",
+  "downloads": 293329,
+  "likes": 136
+ },
+ {
+  "rank": 289,
+  "id": "deepseek-ai/DeepSeek-V3.1",
+  "downloads": 292065,
+  "likes": 826
+ },
+ {
+  "rank": 290,
+  "id": "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF",
+  "downloads": 290560,
+  "likes": 382
+ },
+ {
+  "rank": 291,
+  "id": "facebook/opt-350m",
+  "downloads": 288760,
+  "likes": 150
+ },
+ {
+  "rank": 292,
+  "id": "Qwen/Qwen3-4B-GGUF",
+  "downloads": 285499,
+  "likes": 127
+ },
+ {
+  "rank": 293,
+  "id": "ibm-granite/granite-4.0-h-tiny",
+  "downloads": 283557,
+  "likes": 206
+ },
+ {
+  "rank": 294,
+  "id": "mistralai/Mistral-7B-Instruct-v0.1",
+  "downloads": 280762,
+  "likes": 1845
+ },
+ {
+  "rank": 295,
+  "id": "trl-internal-testing/tiny-Qwen3ForCausalLM-Instruct-2507",
+  "downloads": 276135,
+  "likes": 0
+ },
+ {
+  "rank": 296,
+  "id": "cyankiwi/GLM-5.2-AWQ-INT4",
+  "downloads": 275869,
+  "likes": 14
+ },
+ {
+  "rank": 297,
+  "id": "casperhansen/llama-3.3-70b-instruct-awq",
+  "downloads": 275797,
+  "likes": 46
+ },
+ {
+  "rank": 298,
+  "id": "EleutherAI/gpt-j-6b",
+  "downloads": 275398,
+  "likes": 1526
+ },
+ {
+  "rank": 299,
+  "id": "EleutherAI/pythia-410m",
+  "downloads": 275002,
+  "likes": 39
+ },
+ {
+  "rank": 300,
+  "id": "lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-4bit",
+  "downloads": 273532,
+  "likes": 14
+ },
+ {
+  "rank": 301,
+  "id": "moondream/moondream3-preview",
+  "downloads": 272045,
+  "likes": 676
+ },
+ {
+  "rank": 302,
+  "id": "trl-internal-testing/tiny-DeepseekV3ForCausalLM",
+  "downloads": 271090,
+  "likes": 3
+ },
+ {
+  "rank": 303,
+  "id": "Qwen/Qwen3Guard-Gen-4B",
+  "downloads": 270906,
+  "likes": 52
+ },
+ {
+  "rank": 304,
+  "id": "Qwen/Qwen2.5-Coder-1.5B",
+  "downloads": 268210,
+  "likes": 95
+ },
+ {
+  "rank": 305,
+  "id": "nvidia/Qwen3.5-122B-A10B-NVFP4",
+  "downloads": 265425,
+  "likes": 46
+ },
+ {
+  "rank": 306,
+  "id": "trl-internal-testing/tiny-Phi3ForCausalLM-3",
+  "downloads": 264460,
+  "likes": 0
+ },
+ {
+  "rank": 307,
+  "id": "trl-internal-testing/tiny-Phi3ForCausalLM-3.5",
+  "downloads": 263815,
+  "likes": 0
+ },
+ {
+  "rank": 308,
+  "id": "deepseek-ai/DeepSeek-V3.2-Exp",
+  "downloads": 260281,
+  "likes": 992
+ },
+ {
+  "rank": 309,
+  "id": "hugging-quants/Meta-Llama-3.1-70B-Instruct-AWQ-INT4",
+  "downloads": 258071,
+  "likes": 110
+ },
+ {
+  "rank": 310,
+  "id": "RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16",
+  "downloads": 257500,
+  "likes": 1
+ },
+ {
+  "rank": 311,
+  "id": "google-t5/t5-3b",
+  "downloads": 257289,
+  "likes": 52
+ },
+ {
+  "rank": 312,
+  "id": "JackFram/llama-160m",
+  "downloads": 256724,
+  "likes": 37
+ },
+ {
+  "rank": 313,
+  "id": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
+  "downloads": 256517,
+  "likes": 269
+ },
+ {
+  "rank": 314,
+  "id": "google/gemma-4-26B-A4B-it-assistant",
+  "downloads": 255056,
+  "likes": 175
+ },
+ {
+  "rank": 315,
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5-FP8",
+  "downloads": 253786,
+  "likes": 28
+ },
+ {
+  "rank": 316,
+  "id": "bigcode/tiny_starcoder_py",
+  "downloads": 252620,
+  "likes": 74
+ },
+ {
+  "rank": 317,
+  "id": "droplychee/droplychee-1.0-27b",
+  "downloads": 252200,
+  "likes": 2
+ },
+ {
+  "rank": 318,
+  "id": "lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit",
+  "downloads": 252075,
+  "likes": 19
+ },
+ {
+  "rank": 319,
+  "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+  "downloads": 248557,
+  "likes": 175
+ },
+ {
+  "rank": 320,
+  "id": "AEON-7/Gemma-4-E4B-DECKARD-HERETIC-NVFP4",
+  "downloads": 248133,
+  "likes": 1
+ },
+ {
+  "rank": 321,
+  "id": "trl-internal-testing/tiny-MistralForCausalLM-0.2",
+  "downloads": 247415,
+  "likes": 0
+ },
+ {
+  "rank": 322,
+  "id": "HuggingFaceTB/SmolLM-135M",
+  "downloads": 247083,
+  "likes": 263
+ },
+ {
+  "rank": 323,
+  "id": "deepseek-ai/DeepSeek-R1-0528",
+  "downloads": 247031,
+  "likes": 2457
+ },
+ {
+  "rank": 324,
+  "id": "casperhansen/llama-3-70b-instruct-awq",
+  "downloads": 246974,
+  "likes": 71
+ },
+ {
+  "rank": 325,
+  "id": "microsoft/Phi-3-mini-128k-instruct",
+  "downloads": 246303,
+  "likes": 1703
+ },
+ {
+  "rank": 326,
+  "id": "liuhaotian/llava-v1.5-7b",
+  "downloads": 245148,
+  "likes": 558
+ },
+ {
+  "rank": 327,
+  "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+  "downloads": 244797,
+  "likes": 2778
+ },
+ {
+  "rank": 328,
+  "id": "trl-internal-testing/tiny-LlamaForCausalLM-3.1",
+  "downloads": 243963,
+  "likes": 0
+ },
+ {
+  "rank": 329,
+  "id": "codellama/CodeLlama-7b-hf",
+  "downloads": 243584,
+  "likes": 377
+ },
+ {
+  "rank": 330,
+  "id": "stelterlab/Mistral-Small-24B-Instruct-2501-AWQ",
+  "downloads": 242405,
+  "likes": 30
+ },
+ {
+  "rank": 331,
+  "id": "kenpath/svara-tts-v1",
+  "downloads": 242289,
+  "likes": 49
+ },
+ {
+  "rank": 332,
+  "id": "microsoft/Phi-3-vision-128k-instruct",
+  "downloads": 240595,
+  "likes": 973
+ },
+ {
+  "rank": 333,
+  "id": "QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ",
+  "downloads": 237736,
+  "likes": 9
+ },
+ {
+  "rank": 334,
+  "id": "TheBloke/Mistral-7B-Instruct-v0.2-AWQ",
+  "downloads": 237562,
+  "likes": 52
+ },
+ {
+  "rank": 335,
+  "id": "ibm-granite/granite-4.1-3b-GGUF",
+  "downloads": 236178,
+  "likes": 10
+ },
+ {
+  "rank": 336,
+  "id": "trl-internal-testing/tiny-NemotronHForCausalLM-ultra",
+  "downloads": 234499,
+  "likes": 0
+ },
+ {
+  "rank": 337,
+  "id": "trl-internal-testing/tiny-NemotronHForCausalLM-super",
+  "downloads": 234427,
+  "likes": 0
+ },
+ {
+  "rank": 338,
+  "id": "z-lab/Qwen3.6-35B-A3B-DFlash",
+  "downloads": 232915,
+  "likes": 282
+ },
+ {
+  "rank": 339,
+  "id": "lmstudio-community/GLM-4.7-Flash-MLX-8bit",
+  "downloads": 232833,
+  "likes": 11
+ },
+ {
+  "rank": 340,
+  "id": "dots-studio/dots.mocr",
+  "downloads": 232716,
+  "likes": 156
+ },
+ {
+  "rank": 341,
+  "id": "unsloth/Qwen2.5-14B-bnb-4bit",
+  "downloads": 232170,
+  "likes": 5
+ },
+ {
+  "rank": 342,
+  "id": "JunHowie/Qwen3-14B-GPTQ-Int4",
+  "downloads": 231782,
+  "likes": 4
+ },
+ {
+  "rank": 343,
+  "id": "trl-internal-testing/tiny-Olmo3ForCausalLM",
+  "downloads": 229488,
+  "likes": 0
+ },
+ {
+  "rank": 344,
+  "id": "RedHatAI/Meta-Llama-3.1-8B-FP8",
+  "downloads": 227498,
+  "likes": 10
+ },
+ {
+  "rank": 345,
+  "id": "peft-internal-testing/opt-125m",
+  "downloads": 227025,
+  "likes": 0
+ },
+ {
+  "rank": 346,
+  "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2",
+  "downloads": 225160,
+  "likes": 80
+ },
+ {
+  "rank": 347,
+  "id": "bineric/lynx-instruct-30b",
+  "downloads": 221531,
+  "likes": 4
+ },
+ {
+  "rank": 348,
+  "id": "poolside/Laguna-S-2.1-NVFP4",
+  "downloads": 221502,
+  "likes": 156
+ },
+ {
+  "rank": 349,
+  "id": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+  "downloads": 221272,
+  "likes": 269
+ },
+ {
+  "rank": 350,
+  "id": "google/gemma-2-2b",
+  "downloads": 218629,
+  "likes": 685
+ },
+ {
+  "rank": 351,
+  "id": "trl-internal-testing/tiny-MistralForCausalLM-0.1",
+  "downloads": 217708,
+  "likes": 0
+ },
+ {
+  "rank": 352,
+  "id": "EleutherAI/pythia-14m",
+  "downloads": 214981,
+  "likes": 6
+ },
+ {
+  "rank": 353,
+  "id": "Qwen/Qwen2.5-Coder-32B-Instruct-GGUF",
+  "downloads": 214113,
+  "likes": 218
+ },
+ {
+  "rank": 354,
+  "id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "downloads": 213457,
+  "likes": 135
+ },
+ {
+  "rank": 355,
+  "id": "llmat/Qwen3-4B-Instruct-2507-NVFP4",
+  "downloads": 213412,
+  "likes": 2
+ },
+ {
+  "rank": 356,
+  "id": "unsloth/Qwen3-8B",
+  "downloads": 213234,
+  "likes": 16
+ },
+ {
+  "rank": 357,
+  "id": "Maykeye/TinyLLama-v0",
+  "downloads": 212617,
+  "likes": 45
+ },
+ {
+  "rank": 358,
+  "id": "microsoft/DialoGPT-medium",
+  "downloads": 212606,
+  "likes": 438
+ },
+ {
+  "rank": 359,
+  "id": "lmstudio-community/GLM-4.7-Flash-MLX-6bit",
+  "downloads": 211922,
+  "likes": 8
+ },
+ {
+  "rank": 360,
+  "id": "unsloth/Qwen3-14B-unsloth-bnb-4bit",
+  "downloads": 211420,
+  "likes": 17
+ },
+ {
+  "rank": 361,
+  "id": "meta-llama/Llama-2-13b-chat-hf",
+  "downloads": 210857,
+  "likes": 1119
+ },
+ {
+  "rank": 362,
+  "id": "Qwen/Qwen3-4B-Thinking-2507-FP8",
+  "downloads": 208234,
+  "likes": 66
+ },
+ {
+  "rank": 363,
+  "id": "google/gemma-1.1-2b-it",
+  "downloads": 207808,
+  "likes": 173
+ },
+ {
+  "rank": 364,
+  "id": "lmms-lab/llava-onevision-qwen2-7b-ov",
+  "downloads": 206491,
+  "likes": 64
+ },
+ {
+  "rank": 365,
+  "id": "nvidia/Nemotron-Labs-Diffusion-8B",
+  "downloads": 206216,
+  "likes": 53
+ },
+ {
+  "rank": 366,
+  "id": "Qwen/Qwen1.5-MoE-A2.7B",
+  "downloads": 204317,
+  "likes": 228
+ },
+ {
+  "rank": 367,
+  "id": "ibm-research/PowerLM-3b",
+  "downloads": 204150,
+  "likes": 21
+ },
+ {
+  "rank": 368,
+  "id": "unsloth/Qwen2.5-7B-Instruct-bnb-4bit",
+  "downloads": 203274,
+  "likes": 23
+ },
+ {
+  "rank": 369,
+  "id": "dphn/Dolphin-Mistral-24B-Venice-Edition",
+  "downloads": 202285,
+  "likes": 617
+ },
+ {
+  "rank": 370,
+  "id": "unsloth/Qwen3-Coder-Next-GGUF",
+  "downloads": 202122,
+  "likes": 788
+ },
+ {
+  "rank": 371,
+  "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+  "downloads": 201186,
+  "likes": 348
+ },
+ {
+  "rank": 372,
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4",
+  "downloads": 200564,
+  "likes": 7
+ },
+ {
+  "rank": 373,
+  "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
+  "downloads": 200486,
+  "likes": 357
+ },
+ {
+  "rank": 374,
+  "id": "RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8",
+  "downloads": 200213,
+  "likes": 14
+ },
+ {
+  "rank": 375,
+  "id": "Qwen/Qwen3-8B-GGUF",
+  "downloads": 198396,
+  "likes": 236
+ },
+ {
+  "rank": 376,
+  "id": "Orion-zhen/aya-expanse-8b-AWQ",
+  "downloads": 197651,
+  "likes": 1
+ },
+ {
+  "rank": 377,
+  "id": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
+  "downloads": 196502,
+  "likes": 19
+ },
+ {
+  "rank": 378,
+  "id": "culturerevolt/gemma-4-12b-heretic-abliterated-GGUF",
+  "downloads": 195751,
+  "likes": 7
+ },
+ {
+  "rank": 379,
+  "id": "bigcode/starcoder2-3b",
+  "downloads": 193859,
+  "likes": 221
+ },
+ {
+  "rank": 380,
+  "id": "nvidia/Nemotron-Mini-4B-Instruct",
+  "downloads": 191137,
+  "likes": 186
+ },
+ {
+  "rank": 381,
+  "id": "mlx-community/Kimi-K2.5",
+  "downloads": 189741,
+  "likes": 40
+ },
+ {
+  "rank": 382,
+  "id": "trl-internal-testing/tiny-DeepseekV3ForCausalLM-0528",
+  "downloads": 189248,
+  "likes": 1
+ },
+ {
+  "rank": 383,
+  "id": "allenai/OLMoE-1B-7B-0924",
+  "downloads": 189136,
+  "likes": 146
+ },
+ {
+  "rank": 384,
+  "id": "Qwen/Qwen2.5-3B-Instruct-GGUF",
+  "downloads": 186838,
+  "likes": 155
+ },
+ {
+  "rank": 385,
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1",
+  "downloads": 185965,
+  "likes": 325
+ },
+ {
+  "rank": 386,
+  "id": "lewtun/talkie-1930-13b-it-hf",
+  "downloads": 185583,
+  "likes": 24
+ },
+ {
+  "rank": 387,
+  "id": "openai-community/openai-gpt",
+  "downloads": 185429,
+  "likes": 301
+ },
+ {
+  "rank": 388,
+  "id": "cyankiwi/NVIDIA-Nemotron-3-Super-120B-A12B-AWQ-4bit",
+  "downloads": 184893,
+  "likes": 9
+ },
+ {
+  "rank": 389,
+  "id": "LSX-UniWue/LLaMmlein_1B_prerelease",
+  "downloads": 181248,
+  "likes": 14
+ },
+ {
+  "rank": 390,
+  "id": "kaitchup/Phi-3-mini-4k-instruct-gptq-4bit",
+  "downloads": 181195,
+  "likes": 2
+ },
+ {
+  "rank": 391,
+  "id": "microsoft/Phi-mini-MoE-instruct",
+  "downloads": 180859,
+  "likes": 38
+ },
+ {
+  "rank": 392,
+  "id": "unsloth/Llama-3.2-3B-Instruct",
+  "downloads": 179466,
+  "likes": 95
+ },
+ {
+  "rank": 393,
+  "id": "tencent/Hy-MT2-30B-A3B",
+  "downloads": 178301,
+  "likes": 484
+ },
+ {
+  "rank": 394,
+  "id": "bartowski/Llama-3.2-1B-Instruct-GGUF",
+  "downloads": 176966,
+  "likes": 171
+ },
+ {
+  "rank": 395,
+  "id": "Qwen/Qwen3-30B-A3B-FP8",
+  "downloads": 176880,
+  "likes": 85
+ },
+ {
+  "rank": 396,
+  "id": "unsloth/Qwen3-235B-A22B-GGUF",
+  "downloads": 175886,
+  "likes": 77
+ },
+ {
+  "rank": 397,
+  "id": "Qwen/Qwen1.5-0.5B-Chat",
+  "downloads": 173577,
+  "likes": 98
+ },
+ {
+  "rank": 398,
+  "id": "Qwen/Qwen3-30B-A3B-GPTQ-Int4",
+  "downloads": 171992,
+  "likes": 54
+ },
+ {
+  "rank": 399,
+  "id": "Qwen/Qwen2.5-0.5B-Instruct-GGUF",
+  "downloads": 171801,
+  "likes": 116
+ },
+ {
+  "rank": 400,
+  "id": "tiiuae/falcon-mamba-7b",
+  "downloads": 171742,
+  "likes": 244
+ },
+ {
+  "rank": 401,
+  "id": "LiquidAI/LFM2.5-8B-A1B",
+  "downloads": 170282,
+  "likes": 687
+ },
+ {
+  "rank": 402,
+  "id": "bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4",
+  "downloads": 169989,
+  "likes": 33
+ },
+ {
+  "rank": 403,
+  "id": "ibm-granite/granite-4.0-h-small",
+  "downloads": 169799,
+  "likes": 308
+ },
+ {
+  "rank": 404,
+  "id": "moonshotai/Kimi-K2-Instruct",
+  "downloads": 168118,
+  "likes": 2371
+ },
+ {
+  "rank": 405,
+  "id": "QuantTrio/DeepSeek-V3.2-AWQ",
+  "downloads": 167983,
+  "likes": 11
+ },
+ {
+  "rank": 406,
+  "id": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+  "downloads": 167931,
+  "likes": 744
+ },
+ {
+  "rank": 407,
+  "id": "r0b0tlab/Agents-A1-NVFP4",
+  "downloads": 167606,
+  "likes": 2
+ },
+ {
+  "rank": 408,
+  "id": "hugging-quants/Meta-Llama-3.1-8B-Instruct-AWQ-INT4",
+  "downloads": 167467,
+  "likes": 92
+ },
+ {
+  "rank": 409,
+  "id": "TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ",
+  "downloads": 167090,
+  "likes": 5
+ },
+ {
+  "rank": 410,
+  "id": "t-tech/T-lite-it-2.1",
+  "downloads": 166715,
+  "likes": 23
+ },
+ {
+  "rank": 411,
+  "id": "BAAI/bge-reranker-v2.5-gemma2-lightweight",
+  "downloads": 164094,
+  "likes": 54
+ },
+ {
+  "rank": 412,
+  "id": "bartowski/Llama-3.2-3B-Instruct-GGUF",
+  "downloads": 164064,
+  "likes": 229
+ },
+ {
+  "rank": 413,
+  "id": "openai-community/gpt2-xl",
+  "downloads": 163870,
+  "likes": 380
+ },
+ {
+  "rank": 414,
+  "id": "txn545/Qwen3.5-122B-A10B-NVFP4",
+  "downloads": 162442,
+  "likes": 24
+ },
+ {
+  "rank": 415,
+  "id": "HuggingFaceH4/zephyr-7b-beta",
+  "downloads": 162205,
+  "likes": 1847
+ },
+ {
+  "rank": 416,
+  "id": "tencent/Hy-MT2-1.8B",
+  "downloads": 162194,
+  "likes": 1156
+ },
+ {
+  "rank": 417,
+  "id": "allenai/OLMoE-1B-7B-0125-Instruct",
+  "downloads": 161822,
+  "likes": 68
+ },
+ {
+  "rank": 418,
+  "id": "EleutherAI/pythia-160m-deduped",
+  "downloads": 161708,
+  "likes": 3
+ },
+ {
+  "rank": 419,
+  "id": "zai-org/GLM-4.5-Air-FP8",
+  "downloads": 161390,
+  "likes": 82
+ },
+ {
+  "rank": 420,
+  "id": "Qwen/Qwen2.5-Math-1.5B-Instruct",
+  "downloads": 160619,
+  "likes": 57
+ },
+ {
+  "rank": 421,
+  "id": "unsloth/Laguna-S-2.1-GGUF",
+  "downloads": 159331,
+  "likes": 252
+ },
+ {
+  "rank": 422,
+  "id": "nvidia/Qwen3-8B-NVFP4",
+  "downloads": 159102,
+  "likes": 21
+ },
+ {
+  "rank": 423,
+  "id": "nvidia/Qwen3-235B-A22B-NVFP4",
+  "downloads": 158735,
+  "likes": 19
+ },
+ {
+  "rank": 424,
+  "id": "NousResearch/Meta-Llama-3-8B",
+  "downloads": 157687,
+  "likes": 101
+ },
+ {
+  "rank": 425,
+  "id": "Qwen/Qwen3Guard-Gen-0.6B",
+  "downloads": 157172,
+  "likes": 77
+ },
+ {
+  "rank": 426,
+  "id": "deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit",
+  "downloads": 157042,
+  "likes": 31
+ },
+ {
+  "rank": 427,
+  "id": "batiai/Qwen3.6-27B-GGUF",
+  "downloads": 156821,
+  "likes": 8
+ },
+ {
+  "rank": 428,
+  "id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-4bit",
+  "downloads": 156307,
+  "likes": 35
+ },
+ {
+  "rank": 429,
+  "id": "MaziyarPanahi/Qwen3-4B-GGUF",
+  "downloads": 156031,
+  "likes": 7
+ },
+ {
+  "rank": 430,
+  "id": "TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T",
+  "downloads": 154557,
+  "likes": 192
+ },
+ {
+  "rank": 431,
+  "id": "MaziyarPanahi/Qwen3-0.6B-GGUF",
+  "downloads": 154431,
+  "likes": 13
+ },
+ {
+  "rank": 432,
+  "id": "MaziyarPanahi/Qwen3-14B-GGUF",
+  "downloads": 154415,
+  "likes": 11
+ },
+ {
+  "rank": 433,
+  "id": "ibm-granite/granite-4.0-tiny-preview",
+  "downloads": 154152,
+  "likes": 184
+ },
+ {
+  "rank": 434,
+  "id": "microsoft/Phi-3.5-MoE-instruct",
+  "downloads": 153998,
+  "likes": 574
+ },
+ {
+  "rank": 435,
+  "id": "trl-internal-testing/tiny-BloomForCausalLM",
+  "downloads": 153558,
+  "likes": 0
+ },
+ {
+  "rank": 436,
+  "id": "zai-org/GLM-5",
+  "downloads": 153382,
+  "likes": 2119
+ },
+ {
+  "rank": 437,
+  "id": "Qwen/Qwen2-1.5B",
+  "downloads": 153357,
+  "likes": 102
+ },
+ {
+  "rank": 438,
+  "id": "Qwen/Qwen2.5-Math-7B",
+  "downloads": 152834,
+  "likes": 116
+ },
+ {
+  "rank": 439,
+  "id": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-FP8",
+  "downloads": 152672,
+  "likes": 9
+ },
+ {
+  "rank": 440,
+  "id": "HuggingFaceTB/SmolLM3-3B-Base",
+  "downloads": 152013,
+  "likes": 167
+ },
+ {
+  "rank": 441,
+  "id": "nvidia/GLM-5-NVFP4",
+  "downloads": 151683,
+  "likes": 30
+ },
+ {
+  "rank": 442,
+  "id": "MaziyarPanahi/Qwen3-8B-GGUF",
+  "downloads": 150076,
+  "likes": 11
+ },
+ {
+  "rank": 443,
+  "id": "RedHatAI/Meta-Llama-3.1-70B-Instruct-FP8",
+  "downloads": 149200,
+  "likes": 52
+ },
+ {
+  "rank": 444,
+  "id": "AvitoTech/avibe",
+  "downloads": 148094,
+  "likes": 52
+ },
+ {
+  "rank": 445,
+  "id": "MaziyarPanahi/Qwen3-1.7B-GGUF",
+  "downloads": 148082,
+  "likes": 8
+ },
+ {
+  "rank": 446,
+  "id": "bartowski/gemma-2-2b-it-GGUF",
+  "downloads": 147925,
+  "likes": 100
+ },
+ {
+  "rank": 447,
+  "id": "LiquidAI/LFM2-1.2B",
+  "downloads": 147393,
+  "likes": 358
+ },
+ {
+  "rank": 448,
+  "id": "Qwen/Qwen3-235B-A22B-FP8",
+  "downloads": 147355,
+  "likes": 94
+ },
+ {
+  "rank": 449,
+  "id": "MaziyarPanahi/Qwen3-32B-GGUF",
+  "downloads": 146978,
+  "likes": 2
+ },
+ {
+  "rank": 450,
+  "id": "MaziyarPanahi/Qwen3-30B-A3B-GGUF",
+  "downloads": 146696,
+  "likes": 5
+ },
+ {
+  "rank": 451,
+  "id": "stepfun-ai/Step-3.7-Flash",
+  "downloads": 146413,
+  "likes": 429
+ },
+ {
+  "rank": 452,
+  "id": "inclusionAI/LLaDA2.0-mini",
+  "downloads": 143873,
+  "likes": 70
+ },
+ {
+  "rank": 453,
+  "id": "stepfun-ai/step3",
+  "downloads": 143337,
+  "likes": 166
+ },
+ {
+  "rank": 454,
+  "id": "lightonai/LightOnOCR-1B-1025",
+  "downloads": 143019,
+  "likes": 254
+ },
+ {
+  "rank": 455,
+  "id": "voyageai/voyage-4-nano",
+  "downloads": 142601,
+  "likes": 134
+ },
+ {
+  "rank": 456,
+  "id": "mixedbread-ai/mxbai-rerank-base-v2",
+  "downloads": 142335,
+  "likes": 64
+ },
+ {
+  "rank": 457,
+  "id": "Salesforce/codegen-350M-mono",
+  "downloads": 141538,
+  "likes": 101
+ },
+ {
+  "rank": 458,
+  "id": "HuggingFaceM4/tiny-random-LlamaForCausalLM",
+  "downloads": 141106,
+  "likes": 20
+ },
+ {
+  "rank": 459,
+  "id": "EleutherAI/pythia-160m-data-seed1",
+  "downloads": 140992,
+  "likes": 0
+ },
+ {
+  "rank": 460,
+  "id": "HuggingFaceH4/tiny-random-LlamaForCausalLM",
+  "downloads": 140255,
+  "likes": 2
+ },
+ {
+  "rank": 461,
+  "id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-8bit",
+  "downloads": 139900,
+  "likes": 24
+ },
+ {
+  "rank": 462,
+  "id": "HuggingFaceTB/SmolLM2-360M",
+  "downloads": 139755,
+  "likes": 118
+ },
+ {
+  "rank": 463,
+  "id": "meta-llama/Meta-Llama-3-70B",
+  "downloads": 139689,
+  "likes": 878
+ },
+ {
+  "rank": 464,
+  "id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-5bit",
+  "downloads": 139137,
+  "likes": 10
+ },
+ {
+  "rank": 465,
+  "id": "tiiuae/Falcon-H1-0.5B-Base",
+  "downloads": 138455,
+  "likes": 17
+ },
+ {
+  "rank": 466,
+  "id": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+  "downloads": 137651,
+  "likes": 49
+ },
+ {
+  "rank": 467,
+  "id": "Qwen/Qwen3-30B-A3B-Thinking-2507",
+  "downloads": 137505,
+  "likes": 377
+ },
+ {
+  "rank": 468,
+  "id": "trl-internal-testing/tiny-GPTNeoXForCausalLM",
+  "downloads": 136884,
+  "likes": 0
+ },
+ {
+  "rank": 469,
+  "id": "bartowski/Phi-3.5-mini-instruct-GGUF",
+  "downloads": 136749,
+  "likes": 84
+ },
+ {
+  "rank": 470,
+  "id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-MLX-6bit",
+  "downloads": 136586,
+  "likes": 7
+ },
+ {
+  "rank": 471,
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct",
+  "downloads": 136271,
+  "likes": 118
+ },
+ {
+  "rank": 472,
+  "id": "ibm-granite/granite-3.1-8b-instruct",
+  "downloads": 136112,
+  "likes": 168
+ },
+ {
+  "rank": 473,
+  "id": "roneneldan/TinyStories-1M",
+  "downloads": 135546,
+  "likes": 68
+ },
+ {
+  "rank": 474,
+  "id": "meta-llama/Llama-Guard-3-8B",
+  "downloads": 134584,
+  "likes": 312
+ },
+ {
+  "rank": 475,
+  "id": "unsloth/Ornith-1.0-35B-GGUF",
+  "downloads": 134457,
+  "likes": 119
+ },
+ {
+  "rank": 476,
+  "id": "Qwen/Qwen2.5-Math-1.5B",
+  "downloads": 133832,
+  "likes": 110
+ },
+ {
+  "rank": 477,
+  "id": "peft-internal-testing/tiny-dummy-qwen2",
+  "downloads": 133742,
+  "likes": 0
+ },
+ {
+  "rank": 478,
+  "id": "NousResearch/Meta-Llama-3-8B-Instruct",
+  "downloads": 132804,
+  "likes": 103
+ },
+ {
+  "rank": 479,
+  "id": "solidrust/Mistral-7B-Instruct-v0.3-AWQ",
+  "downloads": 132057,
+  "likes": 10
+ },
+ {
+  "rank": 480,
+  "id": "facebook/opt-1.3b",
+  "downloads": 132043,
+  "likes": 185
+ },
+ {
+  "rank": 481,
+  "id": "internlm/internlm2_5-7b-chat",
+  "downloads": 131636,
+  "likes": 201
+ },
+ {
+  "rank": 482,
+  "id": "bartowski/Qwen2.5-7B-Instruct-GGUF",
+  "downloads": 131268,
+  "likes": 70
+ },
+ {
+  "rank": 483,
+  "id": "stelterlab/NVIDIA-Nemotron-3-Nano-30B-A3B-AWQ",
+  "downloads": 131018,
+  "likes": 11
+ },
+ {
+  "rank": 484,
+  "id": "naver-hyperclovax/HyperCLOVAX-SEED-Think-32B",
+  "downloads": 129566,
+  "likes": 402
+ },
+ {
+  "rank": 485,
+  "id": "zai-org/GLM-4.5",
+  "downloads": 128961,
+  "likes": 1407
+ },
+ {
+  "rank": 486,
+  "id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-4bit",
+  "downloads": 128786,
+  "likes": 6
+ },
+ {
+  "rank": 487,
+  "id": "tiiuae/falcon-mamba-tiny-dev",
+  "downloads": 128623,
+  "likes": 2
+ },
+ {
+  "rank": 488,
+  "id": "Doradus-AI/RnJ-1-Instruct-FP8",
+  "downloads": 128479,
+  "likes": 5
+ },
+ {
+  "rank": 489,
+  "id": "trl-internal-testing/tiny-FalconMambaForCausalLM",
+  "downloads": 126795,
+  "likes": 0
+ },
+ {
+  "rank": 490,
+  "id": "yuhuili/EAGLE-LLaMA3-Instruct-8B",
+  "downloads": 126582,
+  "likes": 5
+ },
+ {
+  "rank": 491,
+  "id": "GadflyII/Qwen3-Coder-Next-NVFP4",
+  "downloads": 126137,
+  "likes": 45
+ },
+ {
+  "rank": 492,
+  "id": "naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B",
+  "downloads": 125471,
+  "likes": 221
+ },
+ {
+  "rank": 493,
+  "id": "nvidia/Qwen3-14B-NVFP4",
+  "downloads": 125144,
+  "likes": 13
+ },
+ {
+  "rank": 494,
+  "id": "Qwen/Qwen3-30B-A3B-Base",
+  "downloads": 125111,
+  "likes": 73
+ },
+ {
+  "rank": 495,
+  "id": "GadflyII/GLM-4.7-Flash-NVFP4",
+  "downloads": 125106,
+  "likes": 70
+ },
+ {
+  "rank": 496,
+  "id": "typhoon-ai/llama3.1-typhoon2-8b-instruct",
+  "downloads": 125045,
+  "likes": 13
+ },
+ {
+  "rank": 497,
+  "id": "allenai/Olmo-3-1025-7B",
+  "downloads": 124282,
+  "likes": 80
+ },
+ {
+  "rank": 498,
+  "id": "K-intelligence/Midm-2.0-Mini-Instruct",
+  "downloads": 123825,
+  "likes": 62
+ },
+ {
+  "rank": 499,
+  "id": "tiny-random/qwen3-next-moe",
+  "downloads": 123654,
+  "likes": 4
+ },
+ {
+  "rank": 500,
+  "id": "unsloth/tinyllama-bnb-4bit",
+  "downloads": 123051,
+  "likes": 12
+ },
+ {
+  "rank": 501,
+  "id": "google/gemma-4-12B-it-assistant",
+  "downloads": 122899,
+  "likes": 103
+ },
+ {
+  "rank": 502,
+  "id": "QuantTrio/GLM-4.7-Flash-AWQ",
+  "downloads": 122383,
+  "likes": 12
+ },
+ {
+  "rank": 503,
+  "id": "unsloth/Qwen3-4B-unsloth-bnb-4bit",
+  "downloads": 121709,
+  "likes": 19
+ },
+ {
+  "rank": 504,
+  "id": "Qwen/Qwen2.5-32B-Instruct-GPTQ-Int8",
+  "downloads": 121611,
+  "likes": 14
+ },
+ {
+  "rank": 505,
+  "id": "JackFram/llama-68m",
+  "downloads": 120929,
+  "likes": 38
+ },
+ {
+  "rank": 506,
+  "id": "lmstudio-community/Llama-3.2-3B-Instruct-GGUF",
+  "downloads": 120655,
+  "likes": 45
+ },
+ {
+  "rank": 507,
+  "id": "Alibaba-NLP/gte-Qwen2-7B-instruct",
+  "downloads": 120576,
+  "likes": 483
+ },
+ {
+  "rank": 508,
+  "id": "hugging-quants/Llama-3.2-1B-Instruct-Q4_K_M-GGUF",
+  "downloads": 119849,
+  "likes": 29
+ },
+ {
+  "rank": 509,
+  "id": "Qwen/Qwen3-4B-FP8",
+  "downloads": 119591,
+  "likes": 39
+ },
+ {
+  "rank": 510,
+  "id": "ATH-MaaS/Ovis2-1B",
+  "downloads": 119486,
+  "likes": 97
+ },
+ {
+  "rank": 511,
+  "id": "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4",
+  "downloads": 118965,
+  "likes": 83
+ },
+ {
+  "rank": 512,
+  "id": "prism-ml/Ternary-Bonsai-8B-gguf",
+  "downloads": 118494,
+  "likes": 129
+ },
+ {
+  "rank": 513,
+  "id": "Qwen/Qwen3-14B-Base",
+  "downloads": 117903,
+  "likes": 55
+ },
+ {
+  "rank": 514,
+  "id": "unsloth/Llama-3.1-8B-Instruct",
+  "downloads": 117515,
+  "likes": 13
+ },
+ {
+  "rank": 515,
+  "id": "EleutherAI/pythia-1b",
+  "downloads": 117194,
+  "likes": 45
+ },
+ {
+  "rank": 516,
+  "id": "google/gemma-2-27b-it",
+  "downloads": 116795,
+  "likes": 568
+ },
+ {
+  "rank": 517,
+  "id": "TheBloke/TinyLlama-1.1B-Chat-v1.0-GPTQ",
+  "downloads": 116191,
+  "likes": 14
+ },
+ {
+  "rank": 518,
+  "id": "optimum-intel-internal-testing/opt-125m",
+  "downloads": 116154,
+  "likes": 0
+ },
+ {
+  "rank": 519,
+  "id": "ibm-granite/granite-4.0-micro",
+  "downloads": 114781,
+  "likes": 274
+ },
+ {
+  "rank": 520,
+  "id": "z-lab/Qwen3.6-27B-DFlash",
+  "downloads": 113732,
+  "likes": 386
+ },
+ {
+  "rank": 521,
+  "id": "poolside/Laguna-S-2.1-INT4",
+  "downloads": 113279,
+  "likes": 24
+ },
+ {
+  "rank": 522,
+  "id": "openbmb/MiniCPM4.1-8B",
+  "downloads": 112575,
+  "likes": 391
+ },
+ {
+  "rank": 523,
+  "id": "z-lab/Qwen3.5-27B-DFlash",
+  "downloads": 110887,
+  "likes": 111
+ },
+ {
+  "rank": 524,
+  "id": "unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit",
+  "downloads": 110856,
+  "likes": 13
+ },
+ {
+  "rank": 525,
+  "id": "gdubicki/Qwen3-Coder-Next-NVFP4-GB10",
+  "downloads": 110592,
+  "likes": 2
+ },
+ {
+  "rank": 526,
+  "id": "InternScience/Agents-A1-4B",
+  "downloads": 109937,
+  "likes": 66
+ },
+ {
+  "rank": 527,
+  "id": "allenai/wildguard",
+  "downloads": 109899,
+  "likes": 55
+ },
+ {
+  "rank": 528,
+  "id": "meta-llama/Meta-Llama-3-70B-Instruct",
+  "downloads": 109452,
+  "likes": 1521
+ },
+ {
+  "rank": 529,
+  "id": "MaziyarPanahi/Phi-3.5-mini-instruct-GGUF",
+  "downloads": 109018,
+  "likes": 33
+ },
+ {
+  "rank": 530,
+  "id": "Qwen/Qwen1.5-7B",
+  "downloads": 108710,
+  "likes": 56
+ },
+ {
+  "rank": 531,
+  "id": "microsoft/biogpt",
+  "downloads": 108334,
+  "likes": 307
+ },
+ {
+  "rank": 532,
+  "id": "Qwen/Qwen2.5-3B-Instruct-AWQ",
+  "downloads": 107719,
+  "likes": 16
+ },
+ {
+  "rank": 533,
+  "id": "unsloth/gpt-oss-120b-GGUF",
+  "downloads": 107592,
+  "likes": 287
+ },
+ {
+  "rank": 534,
+  "id": "EleutherAI/pythia-12b",
+  "downloads": 107371,
+  "likes": 145
+ },
+ {
+  "rank": 535,
+  "id": "uctnlp/mzansilm-125m",
+  "downloads": 106505,
+  "likes": 28
+ },
+ {
+  "rank": 536,
+  "id": "unsloth/gpt-oss-20b-BF16",
+  "downloads": 106490,
+  "likes": 34
+ },
+ {
+  "rank": 537,
+  "id": "MaziyarPanahi/Qwen3-4B-Instruct-2507-GGUF",
+  "downloads": 106217,
+  "likes": 3
+ },
+ {
+  "rank": 538,
+  "id": "meta-llama/Llama-3.1-405B",
+  "downloads": 105504,
+  "likes": 982
+ },
+ {
+  "rank": 539,
+  "id": "z-lab/Qwen3-8B-DFlash-b16",
+  "downloads": 104792,
+  "likes": 28
+ },
+ {
+  "rank": 540,
+  "id": "cyankiwi/Qwen3-Next-80B-A3B-Thinking-AWQ-4bit",
+  "downloads": 104627,
+  "likes": 23
+ },
+ {
+  "rank": 541,
+  "id": "Salesforce/ctrl",
+  "downloads": 104623,
+  "likes": 18
+ },
+ {
+  "rank": 542,
+  "id": "google/gemma-4-12B-it-qat-q4_0-unquantized-assistant",
+  "downloads": 104265,
+  "likes": 22
+ },
+ {
+  "rank": 543,
+  "id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-MLX-8bit",
+  "downloads": 104123,
+  "likes": 3
+ },
+ {
+  "rank": 544,
+  "id": "openai/gpt-oss-safeguard-20b",
+  "downloads": 103990,
+  "likes": 244
+ },
+ {
+  "rank": 545,
+  "id": "facebook/opt-6.7b",
+  "downloads": 103932,
+  "likes": 121
+ },
+ {
+  "rank": 546,
+  "id": "Dream-org/Dream-v0-Instruct-7B",
+  "downloads": 101882,
+  "likes": 159
+ },
+ {
+  "rank": 547,
+  "id": "openbmb/MiniCPM5-1B-GGUF",
+  "downloads": 101578,
+  "likes": 216
+ },
+ {
+  "rank": 548,
+  "id": "litert-community/Qwen2.5-1.5B-Instruct",
+  "downloads": 101259,
+  "likes": 49
+ },
+ {
+  "rank": 549,
+  "id": "SillyTilly/mistralai_Mistral-Nemo-Instruct-2407",
+  "downloads": 100596,
+  "likes": 1
+ },
+ {
+  "rank": 550,
+  "id": "Efficient-Large-Model/gemma-2-2b-it",
+  "downloads": 100379,
+  "likes": 3
+ },
+ {
+  "rank": 551,
+  "id": "kmhf/hf-moshiko",
+  "downloads": 100320,
+  "likes": 0
+ },
+ {
+  "rank": 552,
+  "id": "HuggingFaceTB/SmolLM-1.7B",
+  "downloads": 100299,
+  "likes": 181
+ },
+ {
+  "rank": 553,
+  "id": "MiniMaxAI/MiniMax-M2",
+  "downloads": 99637,
+  "likes": 1500
+ },
+ {
+  "rank": 554,
+  "id": "lightseekorg/kimi-k2.6-eagle3-mla",
+  "downloads": 99290,
+  "likes": 7
+ },
+ {
+  "rank": 555,
+  "id": "Qwen/Qwen2.5-Coder-14B",
+  "downloads": 99127,
+  "likes": 84
+ },
+ {
+  "rank": 556,
+  "id": "Vamsi/T5_Paraphrase_Paws",
+  "downloads": 98475,
+  "likes": 44
+ },
+ {
+  "rank": 557,
+  "id": "RadixArk/Kimi-K3-DSpark",
+  "downloads": 98402,
+  "likes": 23
+ },
+ {
+  "rank": 558,
+  "id": "google/gemma-2b",
+  "downloads": 98203,
+  "likes": 1210
+ },
+ {
+  "rank": 559,
+  "id": "speakleash/Bielik-11B-v2.3-Instruct",
+  "downloads": 97946,
+  "likes": 52
+ },
+ {
+  "rank": 560,
+  "id": "trl-internal-testing/dummy-GPT2-correct-vocab",
+  "downloads": 97925,
+  "likes": 0
+ },
+ {
+  "rank": 561,
+  "id": "lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-GGUF",
+  "downloads": 97852,
+  "likes": 55
+ },
+ {
+  "rank": 562,
+  "id": "Qwen/Qwen2.5-Coder-0.5B-Instruct",
+  "downloads": 97439,
+  "likes": 74
+ },
+ {
+  "rank": 563,
+  "id": "Qwen/Qwen3-30B-A3B-GGUF",
+  "downloads": 96847,
+  "likes": 74
+ },
+ {
+  "rank": 564,
+  "id": "nvidia/Nemotron-Labs-Diffusion-3B-Base",
+  "downloads": 96782,
+  "likes": 11
+ },
+ {
+  "rank": 565,
+  "id": "k-chirkunov/gemma4-e4b-claims-comparison",
+  "downloads": 96323,
+  "likes": 0
+ },
+ {
+  "rank": 566,
+  "id": "google/gemma-2-9b",
+  "downloads": 95989,
+  "likes": 717
+ },
+ {
+  "rank": 567,
+  "id": "ATH-MaaS/Ovis1.6-Llama3.2-3B",
+  "downloads": 95181,
+  "likes": 49
+ },
+ {
+  "rank": 568,
+  "id": "bartowski/Qwen2.5-14B-Instruct-GGUF",
+  "downloads": 94985,
+  "likes": 69
+ },
+ {
+  "rank": 569,
+  "id": "Isotr0py/deepseek-vl2-tiny",
+  "downloads": 94824,
+  "likes": 0
+ },
+ {
+  "rank": 570,
+  "id": "stepfun-ai/Step-3.5-Flash",
+  "downloads": 94351,
+  "likes": 829
+ },
+ {
+  "rank": 571,
+  "id": "cyankiwi/Ornith-1.0-9B-AWQ-INT4",
+  "downloads": 94172,
+  "likes": 1
+ },
+ {
+  "rank": 572,
+  "id": "Unbabel/TowerInstruct-13B-v0.1",
+  "downloads": 93895,
+  "likes": 35
+ },
+ {
+  "rank": 573,
+  "id": "Qwen/Qwen2.5-14B",
+  "downloads": 93879,
+  "likes": 156
+ },
+ {
+  "rank": 574,
+  "id": "RedHatAI/Qwen3-8B-speculator.eagle3",
+  "downloads": 93793,
+  "likes": 29
+ },
+ {
+  "rank": 575,
+  "id": "ibm-granite/granite-3.0-8b-instruct",
+  "downloads": 93555,
+  "likes": 207
+ },
+ {
+  "rank": 576,
+  "id": "Qwen/Qwen3-14B-GGUF",
+  "downloads": 93547,
+  "likes": 114
+ },
+ {
+  "rank": 577,
+  "id": "GSAI-ML/LLaDA-8B-Base",
+  "downloads": 93379,
+  "likes": 100
+ },
+ {
+  "rank": 578,
+  "id": "tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF",
+  "downloads": 93295,
+  "likes": 155
+ },
+ {
+  "rank": 579,
+  "id": "LiquidAI/LFM2.5-350M",
+  "downloads": 93235,
+  "likes": 383
+ },
+ {
+  "rank": 580,
+  "id": "facebook/xglm-564M",
+  "downloads": 92579,
+  "likes": 54
+ },
+ {
+  "rank": 581,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-FP8",
+  "downloads": 92265,
+  "likes": 29
+ },
+ {
+  "rank": 582,
+  "id": "deepseek-ai/deepseek-coder-1.3b-instruct",
+  "downloads": 92167,
+  "likes": 176
+ },
+ {
+  "rank": 583,
+  "id": "bartowski/Qwen2.5-32B-Instruct-GGUF",
+  "downloads": 92112,
+  "likes": 71
+ },
+ {
+  "rank": 584,
+  "id": "parler-tts/parler-tts-mini-multilingual-v1.1",
+  "downloads": 91414,
+  "likes": 58
+ },
+ {
+  "rank": 585,
+  "id": "MaziyarPanahi/Meta-Llama-3-8B-Instruct-GGUF",
+  "downloads": 91268,
+  "likes": 103
+ },
+ {
+  "rank": 586,
+  "id": "EleutherAI/pythia-1.4b",
+  "downloads": 91064,
+  "likes": 27
+ },
+ {
+  "rank": 587,
+  "id": "meta-llama/Llama-3.1-405B-Instruct",
+  "downloads": 90815,
+  "likes": 595
+ },
+ {
+  "rank": 588,
+  "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+  "downloads": 90802,
+  "likes": 888
+ },
+ {
+  "rank": 589,
+  "id": "Qwen/Qwen-AgentWorld-35B-A3B",
+  "downloads": 90492,
+  "likes": 640
+ },
+ {
+  "rank": 590,
+  "id": "google/reformer-crime-and-punishment",
+  "downloads": 90232,
+  "likes": 11
+ },
+ {
+  "rank": 591,
+  "id": "internlm/internlm3-8b-instruct",
+  "downloads": 89769,
+  "likes": 232
+ },
+ {
+  "rank": 592,
+  "id": "ChantalPellegrini/RaDialog-interactive-radiology-report-generation",
+  "downloads": 89603,
+  "likes": 15
+ },
+ {
+  "rank": 593,
+  "id": "nvidia/Nemotron-H-8B-Base-8K",
+  "downloads": 89437,
+  "likes": 59
+ },
+ {
+  "rank": 594,
+  "id": "XiaomiMiMo/MiMo-V2-Flash",
+  "downloads": 89385,
+  "likes": 745
+ },
+ {
+  "rank": 595,
+  "id": "drawais/Qwen3.6-27B-AWQ-INT4",
+  "downloads": 88804,
+  "likes": 1
+ },
+ {
+  "rank": 596,
+  "id": "lmstudio-community/LFM2-24B-A2B-MLX-4bit",
+  "downloads": 88764,
+  "likes": 4
+ },
+ {
+  "rank": 597,
+  "id": "ibnzterrell/Meta-Llama-3.3-70B-Instruct-AWQ-INT4",
+  "downloads": 88346,
+  "likes": 30
+ },
+ {
+  "rank": 598,
+  "id": "Qwen/Qwen3-235B-A22B-Instruct-2507-FP8",
+  "downloads": 88301,
+  "likes": 147
+ },
+ {
+  "rank": 599,
+  "id": "nvidia/DeepSeek-V4-Pro-NVFP4",
+  "downloads": 87980,
+  "likes": 72
+ },
+ {
+  "rank": 600,
+  "id": "unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bit",
+  "downloads": 87899,
+  "likes": 2
+ },
+ {
+  "rank": 601,
+  "id": "Qwen/Qwen2.5-Math-7B-Instruct",
+  "downloads": 87549,
+  "likes": 90
+ },
+ {
+  "rank": 602,
+  "id": "Qwen/CodeQwen1.5-7B-Chat",
+  "downloads": 87294,
+  "likes": 353
+ },
+ {
+  "rank": 603,
+  "id": "lmstudio-community/LFM2-24B-A2B-MLX-8bit",
+  "downloads": 87220,
+  "likes": 2
+ },
+ {
+  "rank": 604,
+  "id": "bartowski/Qwen2.5-72B-Instruct-GGUF",
+  "downloads": 87138,
+  "likes": 46
+ },
+ {
+  "rank": 605,
+  "id": "MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF",
+  "downloads": 87095,
+  "likes": 147
+ },
+ {
+  "rank": 606,
+  "id": "lmstudio-community/LFM2-24B-A2B-MLX-5bit",
+  "downloads": 87052,
+  "likes": 1
+ },
+ {
+  "rank": 607,
+  "id": "lmstudio-community/LFM2.5-1.2B-Instruct-MLX-8bit",
+  "downloads": 87045,
+  "likes": 2
+ },
+ {
+  "rank": 608,
+  "id": "Qwen/Qwen3-Coder-480B-A35B-Instruct",
+  "downloads": 87033,
+  "likes": 1357
+ },
+ {
+  "rank": 609,
+  "id": "Qwen/Qwen2-7B",
+  "downloads": 87010,
+  "likes": 173
+ },
+ {
+  "rank": 610,
+  "id": "lmstudio-community/LFM2-24B-A2B-MLX-6bit",
+  "downloads": 86716,
+  "likes": 3
+ },
+ {
+  "rank": 611,
+  "id": "anton-hugging/TimeOmni-1-7B",
+  "downloads": 86098,
+  "likes": 9
+ },
+ {
+  "rank": 612,
+  "id": "unsloth/gemma-3-1b-it",
+  "downloads": 85876,
+  "likes": 22
+ },
+ {
+  "rank": 613,
+  "id": "abeja/gpt-neox-japanese-2.7b",
+  "downloads": 85829,
+  "likes": 59
+ },
+ {
+  "rank": 614,
+  "id": "lmstudio-community/LFM2.5-1.2B-Instruct-MLX-4bit",
+  "downloads": 85711,
+  "likes": 1
+ },
+ {
+  "rank": 615,
+  "id": "Qwen/Qwen1.5-1.8B-Chat",
+  "downloads": 85581,
+  "likes": 75
+ },
+ {
+  "rank": 616,
+  "id": "lmstudio-community/LFM2.5-1.2B-Instruct-MLX-6bit",
+  "downloads": 85375,
+  "likes": 3
+ },
+ {
+  "rank": 617,
+  "id": "trl-internal-testing/tiny-Phi3ForCausalLM",
+  "downloads": 85175,
+  "likes": 0
+ },
+ {
+  "rank": 618,
+  "id": "BioMistral/BioMistral-7B",
+  "downloads": 85053,
+  "likes": 510
+ },
+ {
+  "rank": 619,
+  "id": "unsloth/Qwen3-4B-Instruct-2507-unsloth-bnb-4bit",
+  "downloads": 84787,
+  "likes": 17
+ },
+ {
+  "rank": 620,
+  "id": "inclusionAI/LLaDA2.1-mini",
+  "downloads": 84580,
+  "likes": 123
+ },
+ {
+  "rank": 621,
+  "id": "QuantTrio/GLM-4.7-AWQ",
+  "downloads": 83988,
+  "likes": 28
+ },
+ {
+  "rank": 622,
+  "id": "unsloth/gemma-3-270m-it-GGUF",
+  "downloads": 83859,
+  "likes": 169
+ },
+ {
+  "rank": 623,
+  "id": "mlx-community/Qwen3-30B-A3B-Instruct-2507-4bit",
+  "downloads": 83766,
+  "likes": 12
+ },
+ {
+  "rank": 624,
+  "id": "Qwen/Qwen2.5-7B-Instruct-GGUF",
+  "downloads": 83364,
+  "likes": 170
+ },
+ {
+  "rank": 625,
+  "id": "ATH-MaaS/Ovis1.6-Gemma2-9B",
+  "downloads": 83126,
+  "likes": 273
+ },
+ {
+  "rank": 626,
+  "id": "MaziyarPanahi/gemma-3-4b-it-GGUF",
+  "downloads": 82847,
+  "likes": 19
+ },
+ {
+  "rank": 627,
+  "id": "LGAI-EXAONE/EXAONE-3.5-32B-Instruct-AWQ",
+  "downloads": 82675,
+  "likes": 17
+ },
+ {
+  "rank": 628,
+  "id": "optimum-intel-internal-testing/tiny-random-Phi3ForCausalLM",
+  "downloads": 82579,
+  "likes": 0
+ },
+ {
+  "rank": 629,
+  "id": "Qwen/Qwen3-1.7B-FP8",
+  "downloads": 82518,
+  "likes": 36
+ },
+ {
+  "rank": 630,
+  "id": "MaziyarPanahi/Mixtral-8x22B-v0.1-GGUF",
+  "downloads": 82146,
+  "likes": 78
+ },
+ {
+  "rank": 631,
+  "id": "microsoft/Phi-4-mini-reasoning",
+  "downloads": 81878,
+  "likes": 240
+ },
+ {
+  "rank": 632,
+  "id": "MaziyarPanahi/Meta-Llama-3.1-8B-Instruct-GGUF",
+  "downloads": 81812,
+  "likes": 37
+ },
+ {
+  "rank": 633,
+  "id": "bullpoint/Qwen3-Coder-Next-AWQ-4bit",
+  "downloads": 81731,
+  "likes": 30
+ },
+ {
+  "rank": 634,
+  "id": "LGAI-EXAONE/EXAONE-4.0-32B-GGUF",
+  "downloads": 81648,
+  "likes": 43
+ },
+ {
+  "rank": 635,
+  "id": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16",
+  "downloads": 81327,
+  "likes": 129
+ },
+ {
+  "rank": 636,
+  "id": "MaziyarPanahi/Llama-3-8B-Instruct-32k-v0.1-GGUF",
+  "downloads": 81087,
+  "likes": 59
+ },
+ {
+  "rank": 637,
+  "id": "nvidia/Llama-3.1-8B-Instruct-FP8",
+  "downloads": 81079,
+  "likes": 36
+ },
+ {
+  "rank": 638,
+  "id": "RedHatAI/Meta-Llama-3.1-8B-Instruct-quantized.w4a16",
+  "downloads": 81074,
+  "likes": 30
+ },
+ {
+  "rank": 639,
+  "id": "MaziyarPanahi/Mistral-Small-24B-Instruct-2501-GGUF",
+  "downloads": 81048,
+  "likes": 12
+ },
+ {
+  "rank": 640,
+  "id": "nvidia/gpt-oss-puzzle-88B",
+  "downloads": 80940,
+  "likes": 94
+ },
+ {
+  "rank": 641,
+  "id": "unsloth/GLM-4.7-Flash-FP8-Dynamic",
+  "downloads": 80911,
+  "likes": 28
+ },
+ {
+  "rank": 642,
+  "id": "unsloth/Qwen3-0.6B-GGUF",
+  "downloads": 80675,
+  "likes": 139
+ },
+ {
+  "rank": 643,
+  "id": "unsloth/Qwen3-4B-GGUF",
+  "downloads": 80573,
+  "likes": 233
+ },
+ {
+  "rank": 644,
+  "id": "moonshotai/Kimi-Linear-48B-A3B-Instruct",
+  "downloads": 80386,
+  "likes": 568
+ },
+ {
+  "rank": 645,
+  "id": "unsloth/Qwen2.5-7B-Instruct",
+  "downloads": 80048,
+  "likes": 27
+ },
+ {
+  "rank": 646,
+  "id": "MaziyarPanahi/Mistral-Nemo-Instruct-2407-GGUF",
+  "downloads": 79980,
+  "likes": 55
+ },
+ {
+  "rank": 647,
+  "id": "protoLabsAI/Ornith-1.0-9B-MTP-GGUF",
+  "downloads": 79784,
+  "likes": 88
+ },
+ {
+  "rank": 648,
+  "id": "MaziyarPanahi/Qwen2.5-7B-Instruct-GGUF",
+  "downloads": 79563,
+  "likes": 11
+ },
+ {
+  "rank": 649,
+  "id": "zai-org/GLM-5.1",
+  "downloads": 79400,
+  "likes": 1839
+ },
+ {
+  "rank": 650,
+  "id": "stabilityai/stablelm-3b-4e1t",
+  "downloads": 79252,
+  "likes": 315
+ },
+ {
+  "rank": 651,
+  "id": "moonshotai/Kimi-K2-Instruct-0905",
+  "downloads": 79137,
+  "likes": 786
+ },
+ {
+  "rank": 652,
+  "id": "MaziyarPanahi/Phi-4-mini-instruct-GGUF",
+  "downloads": 79077,
+  "likes": 14
+ },
+ {
+  "rank": 653,
+  "id": "MaziyarPanahi/Llama-3.3-70B-Instruct-GGUF",
+  "downloads": 78826,
+  "likes": 21
+ },
+ {
+  "rank": 654,
+  "id": "unsloth/Qwen2.5-1.5B-Instruct-unsloth-bnb-4bit",
+  "downloads": 78595,
+  "likes": 5
+ },
+ {
+  "rank": 655,
+  "id": "nvidia/Qwen3-14B-FP8",
+  "downloads": 78495,
+  "likes": 6
+ },
+ {
+  "rank": 656,
+  "id": "MaziyarPanahi/gemma-3-12b-it-GGUF",
+  "downloads": 78465,
+  "likes": 19
+ },
+ {
+  "rank": 657,
+  "id": "MaziyarPanahi/DeepSeek-R1-0528-Qwen3-8B-GGUF",
+  "downloads": 78180,
+  "likes": 11
+ },
+ {
+  "rank": 658,
+  "id": "Qwen/Qwen3-32B-FP8",
+  "downloads": 78136,
+  "likes": 84
+ },
+ {
+  "rank": 659,
+  "id": "MaziyarPanahi/mistral-small-3.1-24b-instruct-2503-hf-GGUF",
+  "downloads": 78110,
+  "likes": 2
+ },
+ {
+  "rank": 660,
+  "id": "MaziyarPanahi/Mistral-Small-Instruct-2409-GGUF",
+  "downloads": 78027,
+  "likes": 4
+ },
+ {
+  "rank": 661,
+  "id": "MaziyarPanahi/Meta-Llama-3.1-70B-Instruct-GGUF",
+  "downloads": 77861,
+  "likes": 40
+ },
+ {
+  "rank": 662,
+  "id": "MaziyarPanahi/gemma-3-1b-it-GGUF",
+  "downloads": 77680,
+  "likes": 12
+ },
+ {
+  "rank": 663,
+  "id": "MaziyarPanahi/gemma-3-27b-it-GGUF",
+  "downloads": 77619,
+  "likes": 8
+ },
+ {
+  "rank": 664,
+  "id": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+  "downloads": 77611,
+  "likes": 1
+ },
+ {
+  "rank": 665,
+  "id": "RedHatAI/Meta-Llama-3.1-8B-Instruct-FP8-dynamic",
+  "downloads": 77584,
+  "likes": 9
+ },
+ {
+  "rank": 666,
+  "id": "MaziyarPanahi/Yi-Coder-1.5B-Chat-GGUF",
+  "downloads": 77250,
+  "likes": 18
+ },
+ {
+  "rank": 667,
+  "id": "MaziyarPanahi/Qwen2.5-1.5B-Instruct-GGUF",
+  "downloads": 77208,
+  "likes": 12
+ },
+ {
+  "rank": 668,
+  "id": "MaziyarPanahi/Llama-3.2-1B-Instruct-GGUF",
+  "downloads": 76921,
+  "likes": 18
+ },
+ {
+  "rank": 669,
+  "id": "MaziyarPanahi/Llama-3-8B-Instruct-64k-GGUF",
+  "downloads": 76896,
+  "likes": 14
+ },
+ {
+  "rank": 670,
+  "id": "MaziyarPanahi/WizardLM-2-7B-GGUF",
+  "downloads": 76882,
+  "likes": 83
+ },
+ {
+  "rank": 671,
+  "id": "litert-community/DeepSeek-R1-Distill-Qwen-1.5B",
+  "downloads": 76818,
+  "likes": 50
+ },
+ {
+  "rank": 672,
+  "id": "marketeam/Qwen-Marketing",
+  "downloads": 76615,
+  "likes": 47
+ },
+ {
+  "rank": 673,
+  "id": "MaziyarPanahi/Qwen2-7B-Instruct-GGUF",
+  "downloads": 76590,
+  "likes": 10
+ },
+ {
+  "rank": 674,
+  "id": "MaziyarPanahi/Llama-3.2-3B-Instruct-GGUF",
+  "downloads": 76581,
+  "likes": 15
+ },
+ {
+  "rank": 675,
+  "id": "MaziyarPanahi/Ministral-3-3B-Reasoning-2512-GGUF",
+  "downloads": 76446,
+  "likes": 4
+ },
+ {
+  "rank": 676,
+  "id": "MaxJeblick/llama2-0b-unit-test",
+  "downloads": 76376,
+  "likes": 2
+ },
+ {
+  "rank": 677,
+  "id": "MaziyarPanahi/gemma-2-2b-it-GGUF",
+  "downloads": 76344,
+  "likes": 14
+ },
+ {
+  "rank": 678,
+  "id": "MaziyarPanahi/solar-pro-preview-instruct-GGUF",
+  "downloads": 76147,
+  "likes": 29
+ },
+ {
+  "rank": 679,
+  "id": "bartowski/Qwen2.5-Coder-14B-Instruct-GGUF",
+  "downloads": 76140,
+  "likes": 56
+ },
+ {
+  "rank": 680,
+  "id": "MaziyarPanahi/mathstral-7B-v0.1-GGUF",
+  "downloads": 76114,
+  "likes": 8
+ },
+ {
+  "rank": 681,
+  "id": "bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF",
+  "downloads": 75983,
+  "likes": 141
+ },
+ {
+  "rank": 682,
+  "id": "MaziyarPanahi/Yi-Coder-9B-Chat-GGUF",
+  "downloads": 75963,
+  "likes": 8
+ },
+ {
+  "rank": 683,
+  "id": "bartowski/Qwen2.5-Coder-7B-Instruct-GGUF",
+  "downloads": 75670,
+  "likes": 66
+ },
+ {
+  "rank": 684,
+  "id": "MaziyarPanahi/Yi-1.5-6B-Chat-GGUF",
+  "downloads": 75625,
+  "likes": 9
+ },
+ {
+  "rank": 685,
+  "id": "MaziyarPanahi/phi-4-GGUF",
+  "downloads": 75313,
+  "likes": 9
+ },
+ {
+  "rank": 686,
+  "id": "erwanf/gpt2-mini",
+  "downloads": 75164,
+  "likes": 6
+ },
+ {
+  "rank": 687,
+  "id": "Milos/slovak-gpt-j-405M",
+  "downloads": 75057,
+  "likes": 2
+ },
+ {
+  "rank": 688,
+  "id": "Qwen/Qwen2.5-Coder-14B-Instruct-GGUF",
+  "downloads": 74990,
+  "likes": 176
+ },
+ {
+  "rank": 689,
+  "id": "bartowski/Hy3-GGUF",
+  "downloads": 74870,
+  "likes": 9
+ },
+ {
+  "rank": 690,
+  "id": "liuhaotian/llava-v1.6-vicuna-13b",
+  "downloads": 74851,
+  "likes": 61
+ },
+ {
+  "rank": 691,
+  "id": "MaziyarPanahi/firefunction-v2-GGUF",
+  "downloads": 74828,
+  "likes": 18
+ },
+ {
+  "rank": 692,
+  "id": "MaziyarPanahi/QwQ-32B-GGUF",
+  "downloads": 74738,
+  "likes": 4
+ },
+ {
+  "rank": 693,
+  "id": "MaziyarPanahi/INTELLECT-2-GGUF",
+  "downloads": 74582,
+  "likes": 3
+ },
+ {
+  "rank": 694,
+  "id": "codellama/CodeLlama-7b-Instruct-hf",
+  "downloads": 74525,
+  "likes": 258
+ },
+ {
+  "rank": 695,
+  "id": "MaziyarPanahi/Mistral-Large-Instruct-2411-GGUF",
+  "downloads": 74468,
+  "likes": 2
+ },
+ {
+  "rank": 696,
+  "id": "MaziyarPanahi/DeepSeek-V3-0324-GGUF",
+  "downloads": 74402,
+  "likes": 23
+ },
+ {
+  "rank": 697,
+  "id": "MaziyarPanahi/Meta-Llama-3.1-405B-Instruct-GGUF",
+  "downloads": 73935,
+  "likes": 15
+ },
+ {
+  "rank": 698,
+  "id": "stelterlab/Qwen3-Coder-30B-A3B-Instruct-AWQ",
+  "downloads": 73860,
+  "likes": 7
+ },
+ {
+  "rank": 699,
+  "id": "bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF",
+  "downloads": 73464,
+  "likes": 44
+ },
+ {
+  "rank": 700,
+  "id": "poolside/Laguna-S-2.1",
+  "downloads": 73246,
+  "likes": 836
+ },
+ {
+  "rank": 701,
+  "id": "Qwen/Qwen3-30B-A3B-Thinking-2507-FP8",
+  "downloads": 72990,
+  "likes": 67
+ },
+ {
+  "rank": 702,
+  "id": "nvidia/MiniMax-M2.7-NVFP4",
+  "downloads": 72966,
+  "likes": 66
+ },
+ {
+  "rank": 703,
+  "id": "GSAI-ML/LLaDA-1.5",
+  "downloads": 72896,
+  "likes": 41
+ },
+ {
+  "rank": 704,
+  "id": "SC117/Ornith-1.0-35B-MTP-APEX-GGUF",
+  "downloads": 72723,
+  "likes": 74
+ },
+ {
+  "rank": 705,
+  "id": "Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+  "downloads": 72020,
+  "likes": 79
+ },
+ {
+  "rank": 706,
+  "id": "unsloth/Qwen2.5-3B-Instruct-bnb-4bit",
+  "downloads": 71746,
+  "likes": 13
+ },
+ {
+  "rank": 707,
+  "id": "baffo32/decapoda-research-llama-7B-hf",
+  "downloads": 71594,
+  "likes": 67
+ },
+ {
+  "rank": 708,
+  "id": "llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF",
+  "downloads": 70790,
+  "likes": 29
+ },
+ {
+  "rank": 709,
+  "id": "stanford-crfm/alias-gpt2-small-x21",
+  "downloads": 70681,
+  "likes": 4
+ },
+ {
+  "rank": 710,
+  "id": "moonshotai/Kimi-K2-Thinking",
+  "downloads": 70359,
+  "likes": 1712
+ },
+ {
+  "rank": 711,
+  "id": "openbmb/MiniCPM-2B-sft-bf16",
+  "downloads": 70280,
+  "likes": 127
+ },
+ {
+  "rank": 712,
+  "id": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+  "downloads": 70135,
+  "likes": 120
+ },
+ {
+  "rank": 713,
+  "id": "unsloth/GLM-4.7-Flash-GGUF",
+  "downloads": 70130,
+  "likes": 679
+ },
+ {
+  "rank": 714,
+  "id": "tencent/Hy3-preview",
+  "downloads": 69493,
+  "likes": 300
+ },
+ {
+  "rank": 715,
+  "id": "optimum-intel-internal-testing/tiny-random-ArceeForCausalLM",
+  "downloads": 69417,
+  "likes": 0
+ },
+ {
+  "rank": 716,
+  "id": "RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct",
+  "downloads": 69357,
+  "likes": 8
+ },
+ {
+  "rank": 717,
+  "id": "lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF",
+  "downloads": 69283,
+  "likes": 260
+ },
+ {
+  "rank": 718,
+  "id": "huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF",
+  "downloads": 69044,
+  "likes": 150
+ },
+ {
+  "rank": 719,
+  "id": "Qwen/Qwen1.5-1.8B",
+  "downloads": 68555,
+  "likes": 59
+ },
+ {
+  "rank": 720,
+  "id": "lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF",
+  "downloads": 68442,
+  "likes": 9
+ },
+ {
+  "rank": 721,
+  "id": "internlm/internlm2-chat-7b",
+  "downloads": 68353,
+  "likes": 83
+ },
+ {
+  "rank": 722,
+  "id": "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+  "downloads": 68245,
+  "likes": 102
+ },
+ {
+  "rank": 723,
+  "id": "jamescallander/DeepSeek-R1-Distill-Qwen-14B_w8a8_g128_rk3588.rkllm",
+  "downloads": 68225,
+  "likes": 1
+ },
+ {
+  "rank": 724,
+  "id": "unsloth/Ornith-1.0-9B-GGUF",
+  "downloads": 68187,
+  "likes": 41
+ },
+ {
+  "rank": 725,
+  "id": "sarvamai/sarvam-105b",
+  "downloads": 68181,
+  "likes": 281
+ },
+ {
+  "rank": 726,
+  "id": "EleutherAI/pythia-160m-weight-seed1",
+  "downloads": 68051,
+  "likes": 0
+ },
+ {
+  "rank": 727,
+  "id": "douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF",
+  "downloads": 68016,
+  "likes": 239
+ },
+ {
+  "rank": 728,
+  "id": "unsloth/Llama-3.2-3B-Instruct-unsloth-bnb-4bit",
+  "downloads": 67922,
+  "likes": 10
+ },
+ {
+  "rank": 729,
+  "id": "nvidia/Qwen3-32B-NVFP4",
+  "downloads": 67904,
+  "likes": 17
+ },
+ {
+  "rank": 730,
+  "id": "EleutherAI/pythia-6.9b",
+  "downloads": 67801,
+  "likes": 64
+ },
+ {
+  "rank": 731,
+  "id": "michaelw9999/Qwen3.6-35B-A3B-NVFP4-MTP-GGUF",
+  "downloads": 67589,
+  "likes": 7
+ },
+ {
+  "rank": 732,
+  "id": "ibm-granite/granite-3.0-1b-a400m-base",
+  "downloads": 67537,
+  "likes": 7
+ },
+ {
+  "rank": 733,
+  "id": "bartowski/DeepSeek-V4-Flash-GGUF",
+  "downloads": 67341,
+  "likes": 33
+ },
+ {
+  "rank": 734,
+  "id": "WeiboAI/VibeThinker-3B",
+  "downloads": 67330,
+  "likes": 809
+ },
+ {
+  "rank": 735,
+  "id": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+  "downloads": 67213,
+  "likes": 126
+ },
+ {
+  "rank": 736,
+  "id": "Alennnndy/Qwen3.6-27B-AWQ-4bit",
+  "downloads": 67028,
+  "likes": 3
+ },
+ {
+  "rank": 737,
+  "id": "Qwen/Qwen2.5-7B-Instruct-1M",
+  "downloads": 66977,
+  "likes": 375
+ },
+ {
+  "rank": 738,
+  "id": "nvidia/Nemotron-Labs-Diffusion-3B",
+  "downloads": 66857,
+  "likes": 39
+ },
+ {
+  "rank": 739,
+  "id": "AIOpsInSpace/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-MTP",
+  "downloads": 66568,
+  "likes": 11
+ },
+ {
+  "rank": 740,
+  "id": "mixedbread-ai/mxbai-rerank-large-v2",
+  "downloads": 66479,
+  "likes": 144
+ },
+ {
+  "rank": 741,
+  "id": "Dream-org/Dream-v0-Base-7B",
+  "downloads": 66377,
+  "likes": 54
+ },
+ {
+  "rank": 742,
+  "id": "microsoft/DialoGPT-small",
+  "downloads": 66114,
+  "likes": 146
+ },
+ {
+  "rank": 743,
+  "id": "lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF",
+  "downloads": 66096,
+  "likes": 36
+ },
+ {
+  "rank": 744,
+  "id": "meshllm/Qwen3.5-397B-A17B-UD-Q4_K_XL-layers",
+  "downloads": 65654,
+  "likes": 1
+ },
+ {
+  "rank": 745,
+  "id": "unsloth/gpt-oss-20b-unsloth-bnb-4bit",
+  "downloads": 65306,
+  "likes": 38
+ },
+ {
+  "rank": 746,
+  "id": "nm-testing/tinyllama-oneshot-w8w8-test-static-shape-change",
+  "downloads": 65107,
+  "likes": 0
+ },
+ {
+  "rank": 747,
+  "id": "LiquidAI/LFM2.5-230M",
+  "downloads": 65088,
+  "likes": 245
+ },
+ {
+  "rank": 748,
+  "id": "pipenetwork/GLM-5.2-REAP50-Q3_K_M-GGUF",
+  "downloads": 64850,
+  "likes": 15
+ },
+ {
+  "rank": 749,
+  "id": "meituan-longcat/LongCat-Flash-Chat",
+  "downloads": 64823,
+  "likes": 537
+ },
+ {
+  "rank": 750,
+  "id": "datificate/gpt2-small-spanish",
+  "downloads": 64653,
+  "likes": 34
+ },
+ {
+  "rank": 751,
+  "id": "nvidia/Qwen3-30B-A3B-NVFP4",
+  "downloads": 64574,
+  "likes": 37
+ },
+ {
+  "rank": 752,
+  "id": "llmfan46/Qwythos-9B-Claude-Mythos-5-1M-uncensored-heretic-GGUF",
+  "downloads": 64314,
+  "likes": 65
+ },
+ {
+  "rank": 753,
+  "id": "unsloth/Llama-3.2-1B",
+  "downloads": 64228,
+  "likes": 67
+ },
+ {
+  "rank": 754,
+  "id": "unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit",
+  "downloads": 64182,
+  "likes": 4
+ },
+ {
+  "rank": 755,
+  "id": "google/gemma-4-E4B-it-assistant",
+  "downloads": 64101,
+  "likes": 118
+ },
+ {
+  "rank": 756,
+  "id": "parasail-ai/GritLM-7B-vllm",
+  "downloads": 63990,
+  "likes": 2
+ },
+ {
+  "rank": 757,
+  "id": "LGAI-EXAONE/EXAONE-3.5-32B-Instruct",
+  "downloads": 63560,
+  "likes": 130
+ },
+ {
+  "rank": 758,
+  "id": "microsoft/VibeVoice-1.5B",
+  "downloads": 63554,
+  "likes": 2439
+ },
+ {
+  "rank": 759,
+  "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
+  "downloads": 63379,
+  "likes": 127
+ },
+ {
+  "rank": 760,
+  "id": "decart-ai/Kimi-K2.7-Code-NVFP4",
+  "downloads": 63193,
+  "likes": 2
+ },
+ {
+  "rank": 761,
+  "id": "bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF",
+  "downloads": 63182,
+  "likes": 50
+ },
+ {
+  "rank": 762,
+  "id": "Qwen/Qwen3-235B-A22B-Instruct-2507",
+  "downloads": 63019,
+  "likes": 793
+ },
+ {
+  "rank": 763,
+  "id": "ebircak/gemma-4-31B-it-4bit-W4A16-AWQ",
+  "downloads": 62980,
+  "likes": 3
+ },
+ {
+  "rank": 764,
+  "id": "prism-ml/Bonsai-8B-gguf",
+  "downloads": 62799,
+  "likes": 759
+ },
+ {
+  "rank": 765,
+  "id": "deepseek-ai/deepseek-coder-6.7b-base",
+  "downloads": 62662,
+  "likes": 125
+ },
+ {
+  "rank": 766,
+  "id": "EleutherAI/pythia-410m-deduped",
+  "downloads": 62545,
+  "likes": 22
+ },
+ {
+  "rank": 767,
+  "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+  "downloads": 62496,
+  "likes": 953
+ },
+ {
+  "rank": 768,
+  "id": "MaziyarPanahi/Qwen3-30B-A3B-Instruct-2507-GGUF",
+  "downloads": 62307,
+  "likes": 4
+ },
+ {
+  "rank": 769,
+  "id": "Qwen/Qwen2.5-Coder-3B-Instruct-GGUF",
+  "downloads": 61901,
+  "likes": 98
+ },
+ {
+  "rank": 770,
+  "id": "RedHatAI/Llama-3.3-70B-Instruct-FP8-dynamic",
+  "downloads": 61830,
+  "likes": 17
+ },
+ {
+  "rank": 771,
+  "id": "openbmb/MiniCPM3-4B",
+  "downloads": 61554,
+  "likes": 419
+ },
+ {
+  "rank": 772,
+  "id": "qihoo360/fg-clip-base",
+  "downloads": 61539,
+  "likes": 10
+ },
+ {
+  "rank": 773,
+  "id": "cyankiwi/MiniMax-M2.7-AWQ-4bit",
+  "downloads": 61471,
+  "likes": 42
+ },
+ {
+  "rank": 774,
+  "id": "allenai/OLMo-2-1124-7B-Instruct",
+  "downloads": 61379,
+  "likes": 50
+ },
+ {
+  "rank": 775,
+  "id": "Qwen/Qwen2-72B-Instruct",
+  "downloads": 60943,
+  "likes": 718
+ },
+ {
+  "rank": 776,
+  "id": "unsloth/Qwen2.5-1.5B-unsloth-bnb-4bit",
+  "downloads": 60830,
+  "likes": 4
+ },
+ {
+  "rank": 777,
+  "id": "EleutherAI/pythia-160m-weight-seed2",
+  "downloads": 60750,
+  "likes": 0
+ },
+ {
+  "rank": 778,
+  "id": "optimum-intel-internal-testing/phi-3.5-moe-tiny-random",
+  "downloads": 60667,
+  "likes": 0
+ },
+ {
+  "rank": 779,
+  "id": "zai-org/GLM-4.7",
+  "downloads": 60246,
+  "likes": 2051
+ },
+ {
+  "rank": 780,
+  "id": "RedHatAI/Qwen3-8B-FP8-dynamic",
+  "downloads": 60173,
+  "likes": 12
+ },
+ {
+  "rank": 781,
+  "id": "nvidia/Llama-3_3-Nemotron-Super-49B-v1_5",
+  "downloads": 60089,
+  "likes": 234
+ },
+ {
+  "rank": 782,
+  "id": "HuggingFaceTB/SmolLM-360M",
+  "downloads": 59906,
+  "likes": 71
+ },
+ {
+  "rank": 783,
+  "id": "ggml-org/stories15M_MOE",
+  "downloads": 59727,
+  "likes": 7
+ },
+ {
+  "rank": 784,
+  "id": "meta-llama/Llama-Guard-3-1B",
+  "downloads": 59662,
+  "likes": 111
+ },
+ {
+  "rank": 785,
+  "id": "optimum-intel-internal-testing/tiny-GptOssForCausalLM",
+  "downloads": 59205,
+  "likes": 0
+ },
+ {
+  "rank": 786,
+  "id": "unsloth/Qwen3-30B-A3B-GGUF",
+  "downloads": 59108,
+  "likes": 284
+ },
+ {
+  "rank": 787,
+  "id": "XiaomiMiMo/MiMo-V2.5-Pro",
+  "downloads": 58952,
+  "likes": 722
+ },
+ {
+  "rank": 788,
+  "id": "inclusionAI/LLaDA2.1-flash",
+  "downloads": 58795,
+  "likes": 92
+ },
+ {
+  "rank": 789,
+  "id": "BAAI/bge-reranker-v2-gemma",
+  "downloads": 58729,
+  "likes": 86
+ },
+ {
+  "rank": 790,
+  "id": "allenai/OLMo-1B-hf",
+  "downloads": 58702,
+  "likes": 29
+ },
+ {
+  "rank": 791,
+  "id": "RedHatAI/Qwen3-Coder-Next-NVFP4",
+  "downloads": 58613,
+  "likes": 34
+ },
+ {
+  "rank": 792,
+  "id": "lmsys/vicuna-7b-v1.5",
+  "downloads": 58294,
+  "likes": 402
+ },
+ {
+  "rank": 793,
+  "id": "cais/HarmBench-Llama-2-13b-cls",
+  "downloads": 58207,
+  "likes": 31
+ },
+ {
+  "rank": 794,
+  "id": "microsoft/phi-1_5",
+  "downloads": 57955,
+  "likes": 1361
+ },
+ {
+  "rank": 795,
+  "id": "google/gemma-2b-it",
+  "downloads": 57927,
+  "likes": 938
+ },
+ {
+  "rank": 796,
+  "id": "peft-internal-testing/tiny-random-GPTJForCausalLM",
+  "downloads": 57688,
+  "likes": 0
+ },
+ {
+  "rank": 797,
+  "id": "bartowski/Qwen_Qwen3-0.6B-GGUF",
+  "downloads": 57383,
+  "likes": 25
+ },
+ {
+  "rank": 798,
+  "id": "katuni4ka/tiny-random-phi3",
+  "downloads": 57362,
+  "likes": 0
+ },
+ {
+  "rank": 799,
+  "id": "swiss-ai/Apertus-70B-Instruct-2509",
+  "downloads": 57234,
+  "likes": 193
+ },
+ {
+  "rank": 800,
+  "id": "unsloth/Llama-3.2-3B-Instruct-bnb-4bit",
+  "downloads": 57117,
+  "likes": 36
+ },
+ {
+  "rank": 801,
+  "id": "lmstudio-community/gemma-3-1b-it-GGUF",
+  "downloads": 56793,
+  "likes": 8
+ },
+ {
+  "rank": 802,
+  "id": "RedHatAI/DeepSeek-V2.5-1210-FP8",
+  "downloads": 56591,
+  "likes": 4
+ },
+ {
+  "rank": 803,
+  "id": "QuantTrio/Qwen3-VL-30B-A3B-Thinking-AWQ",
+  "downloads": 56363,
+  "likes": 14
+ },
+ {
+  "rank": 804,
+  "id": "bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
+  "downloads": 56032,
+  "likes": 178
+ },
+ {
+  "rank": 805,
+  "id": "llamafactory/tiny-random-qwen3",
+  "downloads": 55864,
+  "likes": 0
+ },
+ {
+  "rank": 806,
+  "id": "openbmb/MiniCPM4-0.5B",
+  "downloads": 55852,
+  "likes": 79
+ },
+ {
+  "rank": 807,
+  "id": "h2oai/h2o-danube3-500m-chat",
+  "downloads": 55565,
+  "likes": 42
+ },
+ {
+  "rank": 808,
+  "id": "google/gemma-3-1b-pt",
+  "downloads": 55466,
+  "likes": 196
+ },
+ {
+  "rank": 809,
+  "id": "EleutherAI/pythia-160m-data-seed2",
+  "downloads": 55153,
+  "likes": 0
+ },
+ {
+  "rank": 810,
+  "id": "EleutherAI/gpt-neo-2.7B",
+  "downloads": 54871,
+  "likes": 503
+ },
+ {
+  "rank": 811,
+  "id": "EleutherAI/pythia-160m-data-seed3",
+  "downloads": 54844,
+  "likes": 0
+ },
+ {
+  "rank": 812,
+  "id": "PhalaCloud/GLM-5.2-W4AFP8",
+  "downloads": 54759,
+  "likes": 43
+ },
+ {
+  "rank": 813,
+  "id": "XCurOS/XCurOS0.1-8B-Instruct",
+  "downloads": 54738,
+  "likes": 4
+ },
+ {
+  "rank": 814,
+  "id": "unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF",
+  "downloads": 54656,
+  "likes": 151
+ },
+ {
+  "rank": 815,
+  "id": "unsloth/Qwen2.5-32B-Instruct-bnb-4bit",
+  "downloads": 54594,
+  "likes": 15
+ },
+ {
+  "rank": 816,
+  "id": "EleutherAI/pythia-160m-weight-seed3",
+  "downloads": 54328,
+  "likes": 0
+ },
+ {
+  "rank": 817,
+  "id": "EleutherAI/pythia-2.8b",
+  "downloads": 54110,
+  "likes": 35
+ },
+ {
+  "rank": 818,
+  "id": "nvidia/Nemotron-Cascade-2-30B-A3B",
+  "downloads": 53828,
+  "likes": 520
+ },
+ {
+  "rank": 819,
+  "id": "unsloth/llama-3-8b-Instruct",
+  "downloads": 53687,
+  "likes": 67
+ },
+ {
+  "rank": 820,
+  "id": "unsloth/DeepSeek-V4-Flash",
+  "downloads": 53624,
+  "likes": 73
+ },
+ {
+  "rank": 821,
+  "id": "poolside/Laguna-XS.2",
+  "downloads": 53616,
+  "likes": 319
+ },
+ {
+  "rank": 822,
+  "id": "ibm-granite/granite-3.3-8b-instruct",
+  "downloads": 53500,
+  "likes": 160
+ },
+ {
+  "rank": 823,
+  "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+  "downloads": 53290,
+  "likes": 125
+ },
+ {
+  "rank": 824,
+  "id": "nvidia/Llama-3.1-Nemotron-Nano-8B-v1",
+  "downloads": 53102,
+  "likes": 221
+ },
+ {
+  "rank": 825,
+  "id": "LykosAI/GPT-Prompt-Expansion-Fooocus-v2",
+  "downloads": 52814,
+  "likes": 19
+ },
+ {
+  "rank": 826,
+  "id": "unsloth/Qwen3-1.7B-unsloth-bnb-4bit",
+  "downloads": 52742,
+  "likes": 12
+ },
+ {
+  "rank": 827,
+  "id": "tencent/Hunyuan-A13B-Instruct",
+  "downloads": 52662,
+  "likes": 796
+ },
+ {
+  "rank": 828,
+  "id": "bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF",
+  "downloads": 52649,
+  "likes": 38
+ },
+ {
+  "rank": 829,
+  "id": "lmstudio-community/Qwen3-4B-Thinking-2507-MLX-4bit",
+  "downloads": 52601,
+  "likes": 14
+ },
+ {
+  "rank": 830,
+  "id": "yujiepan/llama-2-tiny-random",
+  "downloads": 52543,
+  "likes": 1
+ },
+ {
+  "rank": 831,
+  "id": "Qwen/Qwen2-1.5B-Instruct-AWQ",
+  "downloads": 52542,
+  "likes": 9
+ },
+ {
+  "rank": 832,
+  "id": "nvidia/DeepSeek-V3.1-NVFP4",
+  "downloads": 52530,
+  "likes": 15
+ },
+ {
+  "rank": 833,
+  "id": "skt/A.X-4.0-Light",
+  "downloads": 52525,
+  "likes": 110
+ },
+ {
+  "rank": 834,
+  "id": "lmstudio-community/Qwen3-4B-Instruct-2507-MLX-4bit",
+  "downloads": 52418,
+  "likes": 3
+ },
+ {
+  "rank": 835,
+  "id": "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4-GGUF",
+  "downloads": 52324,
+  "likes": 7
+ },
+ {
+  "rank": 836,
+  "id": "RedHatAI/Qwen3-32B-FP8-dynamic",
+  "downloads": 52031,
+  "likes": 15
+ },
+ {
+  "rank": 837,
+  "id": "lmstudio-community/Qwen3-4B-Thinking-2507-MLX-8bit",
+  "downloads": 51985,
+  "likes": 8
+ },
+ {
+  "rank": 838,
+  "id": "unsloth/gemma-2-27b-it",
+  "downloads": 51963,
+  "likes": 6
+ },
+ {
+  "rank": 839,
+  "id": "echarlaix/tiny-random-PhiForCausalLM",
+  "downloads": 51788,
+  "likes": 0
+ },
+ {
+  "rank": 840,
+  "id": "lmstudio-community/Qwen3-4B-Thinking-2507-MLX-6bit",
+  "downloads": 51560,
+  "likes": 2
+ },
+ {
+  "rank": 841,
+  "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+  "downloads": 51346,
+  "likes": 254
+ },
+ {
+  "rank": 842,
+  "id": "unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF",
+  "downloads": 50934,
+  "likes": 436
+ },
+ {
+  "rank": 843,
+  "id": "Qwen/Qwen3Guard-Gen-8B",
+  "downloads": 50933,
+  "likes": 124
+ },
+ {
+  "rank": 844,
+  "id": "upstage/SOLAR-10.7B-Instruct-v1.0",
+  "downloads": 50606,
+  "likes": 658
+ },
+ {
+  "rank": 845,
+  "id": "IlyaGusev/gemma-2-2b-it-abliterated",
+  "downloads": 50583,
+  "likes": 53
+ },
+ {
+  "rank": 846,
+  "id": "Virtue-AI-HUB/VulnLLM-R-7B",
+  "downloads": 50575,
+  "likes": 234
+ },
+ {
+  "rank": 847,
+  "id": "bartowski/huihui-ai_Qwen3-Coder-Next-abliterated-GGUF",
+  "downloads": 50521,
+  "likes": 27
+ },
+ {
+  "rank": 848,
+  "id": "openbmb/MiniCPM4-8B",
+  "downloads": 50433,
+  "likes": 285
+ },
+ {
+  "rank": 849,
+  "id": "YanissAmz/Hy3-295B-A21B-GGUF",
+  "downloads": 50051,
+  "likes": 21
+ },
+ {
+  "rank": 850,
+  "id": "mlx-community/Qwen3-0.6B-4bit",
+  "downloads": 49890,
+  "likes": 14
+ },
+ {
+  "rank": 851,
+  "id": "bleysg/Qwen3.5-122B-A10B-int4-fp8-hybrid",
+  "downloads": 49844,
+  "likes": 7
+ },
+ {
+  "rank": 852,
+  "id": "allenai/Olmo-3.1-32B-Instruct",
+  "downloads": 49788,
+  "likes": 81
+ },
+ {
+  "rank": 853,
+  "id": "bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF",
+  "downloads": 49739,
+  "likes": 28
+ },
+ {
+  "rank": 854,
+  "id": "DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF",
+  "downloads": 49704,
+  "likes": 598
+ },
+ {
+  "rank": 855,
+  "id": "baidu/ERNIE-4.5-21B-A3B-PT",
+  "downloads": 49465,
+  "likes": 175
+ },
+ {
+  "rank": 856,
+  "id": "unsloth/Qwen3-0.6B-unsloth-bnb-4bit",
+  "downloads": 49342,
+  "likes": 26
+ },
+ {
+  "rank": 857,
+  "id": "EleutherAI/gpt-neo-1.3B",
+  "downloads": 49329,
+  "likes": 325
+ },
+ {
+  "rank": 858,
+  "id": "trl-internal-testing/tiny-Lfm2ForCausalLM",
+  "downloads": 49246,
+  "likes": 0
+ },
+ {
+  "rank": 859,
+  "id": "lmstudio-community/NVIDIA-Nemotron-3-Nano-30B-A3B-MLX-4bit",
+  "downloads": 49215,
+  "likes": 2
+ },
+ {
+  "rank": 860,
+  "id": "HuggingFaceTB/SmolLM2-1.7B",
+  "downloads": 48882,
+  "likes": 155
+ },
+ {
+  "rank": 861,
+  "id": "ByteDance/Ouro-1.4B",
+  "downloads": 48766,
+  "likes": 108
+ },
+ {
+  "rank": 862,
+  "id": "ibm-granite/granite-3.3-2b-instruct",
+  "downloads": 48701,
+  "likes": 85
+ },
+ {
+  "rank": 863,
+  "id": "ggml-org/gpt-oss-20b-GGUF",
+  "downloads": 48526,
+  "likes": 166
+ },
+ {
+  "rank": 864,
+  "id": "mlx-community/Llama-3.2-1B-Instruct-4bit",
+  "downloads": 48289,
+  "likes": 20
+ },
+ {
+  "rank": 865,
+  "id": "LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct",
+  "downloads": 48226,
+  "likes": 189
+ },
+ {
+  "rank": 866,
+  "id": "arnir0/Tiny-LLM",
+  "downloads": 48061,
+  "likes": 60
+ },
+ {
+  "rank": 867,
+  "id": "lmstudio-community/Qwen3-4B-Instruct-2507-MLX-8bit",
+  "downloads": 48010,
+  "likes": 2
+ },
+ {
+  "rank": 868,
+  "id": "amd/PARD-Llama-3.2-1B",
+  "downloads": 47927,
+  "likes": 2
+ },
+ {
+  "rank": 869,
+  "id": "poolside/Laguna-XS-2.1-GGUF",
+  "downloads": 47926,
+  "likes": 74
+ },
+ {
+  "rank": 870,
+  "id": "Qwen/Qwen2.5-32B",
+  "downloads": 47891,
+  "likes": 179
+ },
+ {
+  "rank": 871,
+  "id": "peft-internal-testing/tiny-random-gpt2",
+  "downloads": 47778,
+  "likes": 0
+ },
+ {
+  "rank": 872,
+  "id": "TheBloke/Mistral-7B-Instruct-v0.2-GGUF",
+  "downloads": 47702,
+  "likes": 512
+ },
+ {
+  "rank": 873,
+  "id": "gratefulasi/lumeleto",
+  "downloads": 47528,
+  "likes": 1
+ },
+ {
+  "rank": 874,
+  "id": "RedHatAI/Meta-Llama-3.1-70B-Instruct-quantized.w4a16",
+  "downloads": 47479,
+  "likes": 33
+ },
+ {
+  "rank": 875,
+  "id": "pfnet/plamo-2-1b",
+  "downloads": 47436,
+  "likes": 40
+ },
+ {
+  "rank": 876,
+  "id": "lmstudio-community/Qwen3-4B-Instruct-2507-MLX-5bit",
+  "downloads": 47400,
+  "likes": 0
+ },
+ {
+  "rank": 877,
+  "id": "lmstudio-community/Qwen3-4B-Instruct-2507-MLX-6bit",
+  "downloads": 47395,
+  "likes": 0
+ },
+ {
+  "rank": 878,
+  "id": "unsloth/Llama-3.2-3B",
+  "downloads": 47120,
+  "likes": 18
+ },
+ {
+  "rank": 879,
+  "id": "lmstudio-community/Phi-4-mini-reasoning-MLX-4bit",
+  "downloads": 47083,
+  "likes": 4
+ },
+ {
+  "rank": 880,
+  "id": "allenai/Olmo-3-1125-32B",
+  "downloads": 46996,
+  "likes": 124
+ },
+ {
+  "rank": 881,
+  "id": "unsloth/llama-3-8b-Instruct-bnb-4bit",
+  "downloads": 46950,
+  "likes": 134
+ },
+ {
+  "rank": 882,
+  "id": "Qwen/Qwen3-235B-A22B-Thinking-2507-FP8",
+  "downloads": 46818,
+  "likes": 86
+ },
+ {
+  "rank": 883,
+  "id": "tobil/qmd-query-expansion-1.7B-gguf",
+  "downloads": 46497,
+  "likes": 25
+ },
+ {
+  "rank": 884,
+  "id": "lmstudio-community/Qwen3-14B-GGUF",
+  "downloads": 46418,
+  "likes": 19
+ },
+ {
+  "rank": 885,
+  "id": "Qwen/Qwen3-0.6B-GGUF",
+  "downloads": 45935,
+  "likes": 65
+ },
+ {
+  "rank": 886,
+  "id": "peft-internal-testing/tiny-random-GPT2LMHeadModel",
+  "downloads": 45844,
+  "likes": 0
+ },
+ {
+  "rank": 887,
+  "id": "lmstudio-community/Qwen3-14B-MLX-4bit",
+  "downloads": 45410,
+  "likes": 7
+ },
+ {
+  "rank": 888,
+  "id": "AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4",
+  "downloads": 45191,
+  "likes": 57
+ },
+ {
+  "rank": 889,
+  "id": "Qwen/Qwen2.5-14B-Instruct-GPTQ-Int4",
+  "downloads": 45168,
+  "likes": 27
+ },
+ {
+  "rank": 890,
+  "id": "casperhansen/deepseek-coder-v2-instruct-awq",
+  "downloads": 45128,
+  "likes": 11
+ },
+ {
+  "rank": 891,
+  "id": "lmstudio-community/NVIDIA-Nemotron-3-Nano-30B-A3B-MLX-8bit",
+  "downloads": 44968,
+  "likes": 3
+ },
+ {
+  "rank": 892,
+  "id": "InternScience/Agents-A1",
+  "downloads": 44612,
+  "likes": 614
+ },
+ {
+  "rank": 893,
+  "id": "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct",
+  "downloads": 44516,
+  "likes": 421
+ },
+ {
+  "rank": 894,
+  "id": "lmstudio-community/NVIDIA-Nemotron-3-Nano-30B-A3B-MLX-6bit",
+  "downloads": 44427,
+  "likes": 0
+ },
+ {
+  "rank": 895,
+  "id": "unsloth/Qwen3-4B-Instruct-2507",
+  "downloads": 44419,
+  "likes": 26
+ },
+ {
+  "rank": 896,
+  "id": "lmstudio-community/NVIDIA-Nemotron-3-Nano-30B-A3B-MLX-5bit",
+  "downloads": 44275,
+  "likes": 0
+ },
+ {
+  "rank": 897,
+  "id": "naver-hyperclovax/HyperCLOVAX-SEED-Think-14B",
+  "downloads": 44244,
+  "likes": 118
+ },
+ {
+  "rank": 898,
+  "id": "meta-llama/Llama-3.1-70B",
+  "downloads": 44098,
+  "likes": 429
+ },
+ {
+  "rank": 899,
+  "id": "unsloth/Qwen2.5-1.5B-Instruct",
+  "downloads": 44025,
+  "likes": 9
+ },
+ {
+  "rank": 900,
+  "id": "cyankiwi/Hermes-4-14B-AWQ-4bit",
+  "downloads": 43919,
+  "likes": 4
+ },
+ {
+  "rank": 901,
+  "id": "unsloth/Phi-4-mini-instruct-GGUF",
+  "downloads": 43816,
+  "likes": 125
+ },
+ {
+  "rank": 902,
+  "id": "stelterlab/Qwen3-30B-A3B-Instruct-2507-AWQ",
+  "downloads": 43709,
+  "likes": 1
+ },
+ {
+  "rank": 903,
+  "id": "bartowski/Qwen2.5-3B-Instruct-GGUF",
+  "downloads": 43662,
+  "likes": 32
+ },
+ {
+  "rank": 904,
+  "id": "sbintuitions/tiny-lm",
+  "downloads": 43589,
+  "likes": 2
+ },
+ {
+  "rank": 905,
+  "id": "prism-ml/Bonsai-27B-mlx-1bit",
+  "downloads": 43458,
+  "likes": 192
+ },
+ {
+  "rank": 906,
+  "id": "poolside/Laguna-S-2.1-FP8",
+  "downloads": 43220,
+  "likes": 24
+ },
+ {
+  "rank": 907,
+  "id": "QuixiAI/Qwen3-30B-A3B-AWQ",
+  "downloads": 43123,
+  "likes": 13
+ },
+ {
+  "rank": 908,
+  "id": "RedHatAI/gpt-oss-20b-speculator.eagle3",
+  "downloads": 43080,
+  "likes": 14
+ },
+ {
+  "rank": 909,
+  "id": "BCCard/Qwen3-30B-A3B-FP8-Dynamic",
+  "downloads": 42970,
+  "likes": 0
+ },
+ {
+  "rank": 910,
+  "id": "Model-SafeTensors/L3-Aethora-15B",
+  "downloads": 42942,
+  "likes": 2
+ },
+ {
+  "rank": 911,
+  "id": "ManniX-ITA/Qwen3.6-27B-A3B-Coder-MTP-GGUF",
+  "downloads": 42883,
+  "likes": 18
+ },
+ {
+  "rank": 912,
+  "id": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+  "downloads": 42621,
+  "likes": 530
+ },
+ {
+  "rank": 913,
+  "id": "LiquidAI/LFM2.5-350M-GGUF",
+  "downloads": 42388,
+  "likes": 85
+ },
+ {
+  "rank": 914,
+  "id": "Ex0bit/Qwen3.6-35B-A3B-PRISM-NVFP4",
+  "downloads": 42278,
+  "likes": 20
+ },
+ {
+  "rank": 915,
+  "id": "Qwen/QwQ-32B-Preview",
+  "downloads": 42160,
+  "likes": 1741
+ },
+ {
+  "rank": 916,
+  "id": "s-batman/Ornith-1.0-35B-NVFP4-MTP-GGUF",
+  "downloads": 42021,
+  "likes": 37
+ },
+ {
+  "rank": 917,
+  "id": "LGAI-EXAONE/K-EXAONE-236B-A23B",
+  "downloads": 41981,
+  "likes": 572
+ },
+ {
+  "rank": 918,
+  "id": "allenai/OLMo-2-0425-1B-Instruct",
+  "downloads": 41945,
+  "likes": 57
+ },
+ {
+  "rank": 919,
+  "id": "RedHatAI/Llama-3.2-1B-Instruct-quantized.w8a8",
+  "downloads": 41913,
+  "likes": 8
+ },
+ {
+  "rank": 920,
+  "id": "MaziyarPanahi/Trinity-Mini-GGUF",
+  "downloads": 41794,
+  "likes": 1
+ },
+ {
+  "rank": 921,
+  "id": "trl-internal-testing/tiny-Lfm2ForCausalLM-2.5",
+  "downloads": 41733,
+  "likes": 0
+ },
+ {
+  "rank": 922,
+  "id": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+  "downloads": 41568,
+  "likes": 10
+ },
+ {
+  "rank": 923,
+  "id": "MaziyarPanahi/GLM-4.6V-Flash-GGUF",
+  "downloads": 41379,
+  "likes": 6
+ },
+ {
+  "rank": 924,
+  "id": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+  "downloads": 41360,
+  "likes": 457
+ },
+ {
+  "rank": 925,
+  "id": "LukeBailey181Pub/dspv2_guide",
+  "downloads": 41211,
+  "likes": 0
+ },
+ {
+  "rank": 926,
+  "id": "MaziyarPanahi/Qwen3-Coder-Next-GGUF",
+  "downloads": 40991,
+  "likes": 1
+ },
+ {
+  "rank": 927,
+  "id": "VLTX/VertaLily-1.2-1B-GGUF",
+  "downloads": 40988,
+  "likes": 7
+ },
+ {
+  "rank": 928,
+  "id": "optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4",
+  "downloads": 40977,
+  "likes": 0
+ },
+ {
+  "rank": 929,
+  "id": "nytopop/Qwen3-8B.w8a8",
+  "downloads": 40952,
+  "likes": 1
+ },
+ {
+  "rank": 930,
+  "id": "nm-testing/Meta-Llama-3-8B-Instruct-nonuniform-test",
+  "downloads": 40911,
+  "likes": 0
+ },
+ {
+  "rank": 931,
+  "id": "vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF",
+  "downloads": 40905,
+  "likes": 13
+ },
+ {
+  "rank": 932,
+  "id": "unsloth/Llama-3.2-1B-Instruct-bnb-4bit",
+  "downloads": 40829,
+  "likes": 23
+ },
+ {
+  "rank": 933,
+  "id": "MaziyarPanahi/gpt-oss-20b-Derestricted-GGUF",
+  "downloads": 40814,
+  "likes": 2
+ },
+ {
+  "rank": 934,
+  "id": "lmstudio-community/Qwen3-14B-MLX-8bit",
+  "downloads": 40798,
+  "likes": 2
+ },
+ {
+  "rank": 935,
+  "id": "ByteDance-Seed/Seed-OSS-36B-Instruct",
+  "downloads": 40756,
+  "likes": 503
+ },
+ {
+  "rank": 936,
+  "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+  "downloads": 40661,
+  "likes": 287
+ },
+ {
+  "rank": 937,
+  "id": "ByteDance-Seed/academic-ds-9B",
+  "downloads": 40605,
+  "likes": 16
+ },
+ {
+  "rank": 938,
+  "id": "unsloth/Kimi-K2-Instruct-GGUF",
+  "downloads": 40557,
+  "likes": 229
+ },
+ {
+  "rank": 939,
+  "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+  "downloads": 40519,
+  "likes": 418
+ },
+ {
+  "rank": 940,
+  "id": "crusoeai/DeepSeek-V4-Flash-BF16",
+  "downloads": 40508,
+  "likes": 0
+ },
+ {
+  "rank": 941,
+  "id": "Qwen/Qwen1.5-0.5B",
+  "downloads": 40354,
+  "likes": 174
+ },
+ {
+  "rank": 942,
+  "id": "mlx-community/Qwen3-14B-4bit",
+  "downloads": 40316,
+  "likes": 5
+ },
+ {
+  "rank": 943,
+  "id": "google/gemma-4-E2B-it-assistant",
+  "downloads": 40207,
+  "likes": 69
+ },
+ {
+  "rank": 944,
+  "id": "TheBloke/Llama-2-7B-Chat-GGUF",
+  "downloads": 40082,
+  "likes": 517
+ },
+ {
+  "rank": 945,
+  "id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-4bit",
+  "downloads": 40079,
+  "likes": 6
+ },
+ {
+  "rank": 946,
+  "id": "moonshotai/Moonlight-16B-A3B-Instruct",
+  "downloads": 39953,
+  "likes": 202
+ },
+ {
+  "rank": 947,
+  "id": "mrexodia/openPangu-2.0-Flash-GGUF",
+  "downloads": 39935,
+  "likes": 10
+ },
+ {
+  "rank": 948,
+  "id": "bartowski/Qwen2.5-Coder-32B-Instruct-GGUF",
+  "downloads": 39876,
+  "likes": 119
+ },
+ {
+  "rank": 949,
+  "id": "lmstudio-community/gpt-oss-120b-MLX-8bit",
+  "downloads": 39856,
+  "likes": 13
+ },
+ {
+  "rank": 950,
+  "id": "Qwen/Qwen-7B-Chat",
+  "downloads": 39567,
+  "likes": 791
+ },
+ {
+  "rank": 951,
+  "id": "unsloth/Qwen3-1.7B-GGUF",
+  "downloads": 39555,
+  "likes": 69
+ },
+ {
+  "rank": 952,
+  "id": "RedHatAI/Qwen2-1.5B-Instruct-FP8",
+  "downloads": 39547,
+  "likes": 0
+ },
+ {
+  "rank": 953,
+  "id": "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+  "downloads": 39532,
+  "likes": 2069
+ },
+ {
+  "rank": 954,
+  "id": "owao/Nanbeige4.2-3B-GGUF",
+  "downloads": 39464,
+  "likes": 40
+ },
+ {
+  "rank": 955,
+  "id": "MaziyarPanahi/Nemotron-Orchestrator-8B-GGUF",
+  "downloads": 39453,
+  "likes": 6
+ },
+ {
+  "rank": 956,
+  "id": "google-t5/t5-11b",
+  "downloads": 39316,
+  "likes": 71
+ },
+ {
+  "rank": 957,
+  "id": "RedHatAI/Qwen2.5-Coder-14B-Instruct-FP8-dynamic",
+  "downloads": 39316,
+  "likes": 1
+ },
+ {
+  "rank": 958,
+  "id": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
+  "downloads": 39312,
+  "likes": 133
+ },
+ {
+  "rank": 959,
+  "id": "np-cr/testing-qwen3-moe",
+  "downloads": 39310,
+  "likes": 0
+ },
+ {
+  "rank": 960,
+  "id": "lmstudio-community/Seed-OSS-36B-Instruct-MLX-8bit",
+  "downloads": 39238,
+  "likes": 2
+ },
+ {
+  "rank": 961,
+  "id": "unsloth/Meta-Llama-3.1-8B-Instruct-unsloth-bnb-4bit",
+  "downloads": 39209,
+  "likes": 4
+ },
+ {
+  "rank": 962,
+  "id": "Menlo/Jan-nano-128k",
+  "downloads": 39112,
+  "likes": 223
+ },
+ {
+  "rank": 963,
+  "id": "sarvamai/sarvam-30b",
+  "downloads": 39059,
+  "likes": 214
+ },
+ {
+  "rank": 964,
+  "id": "BSC-LT/salamandra-7b-instruct",
+  "downloads": 39002,
+  "likes": 82
+ },
+ {
+  "rank": 965,
+  "id": "m15dg/local-ai-toolkit",
+  "downloads": 38960,
+  "likes": 28
+ },
+ {
+  "rank": 966,
+  "id": "trl-internal-testing/tiny-GPT2LMHeadModel",
+  "downloads": 38941,
+  "likes": 0
+ },
+ {
+  "rank": 967,
+  "id": "neuralcrew/neutrino-instruct",
+  "downloads": 38916,
+  "likes": 7
+ },
+ {
+  "rank": 968,
+  "id": "OpenOneRec/OneReason-0.8B-pretrain-competition",
+  "downloads": 38791,
+  "likes": 27
+ },
+ {
+  "rank": 969,
+  "id": "litert-community/Qwen3-0.6B",
+  "downloads": 38781,
+  "likes": 17
+ },
+ {
+  "rank": 970,
+  "id": "CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF",
+  "downloads": 38659,
+  "likes": 23
+ },
+ {
+  "rank": 971,
+  "id": "bartowski/Qwen2.5-0.5B-Instruct-GGUF",
+  "downloads": 38656,
+  "likes": 14
+ },
+ {
+  "rank": 972,
+  "id": "syvai/plapre-nano",
+  "downloads": 38585,
+  "likes": 24
+ },
+ {
+  "rank": 973,
+  "id": "llmfan46/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-uncensored-heretic-GGUF",
+  "downloads": 38578,
+  "likes": 23
+ },
+ {
+  "rank": 974,
+  "id": "nguyenvulebinh/AV-HuBERT-MuAViC-en",
+  "downloads": 38416,
+  "likes": 1
+ },
+ {
+  "rank": 975,
+  "id": "unsloth/Qwen2.5-0.5B-Instruct-unsloth-bnb-4bit",
+  "downloads": 38325,
+  "likes": 6
+ },
+ {
+  "rank": 976,
+  "id": "jinaai/jina-code-embeddings-0.5b",
+  "downloads": 38259,
+  "likes": 19
+ },
+ {
+  "rank": 977,
+  "id": "tencent/Hy-MT2-7B",
+  "downloads": 38211,
+  "likes": 200
+ },
+ {
+  "rank": 978,
+  "id": "deepseek-ai/deepseek-llm-7b-chat",
+  "downloads": 38188,
+  "likes": 227
+ },
+ {
+  "rank": 979,
+  "id": "Qwen/Qwen3-Next-80B-A3B-Thinking",
+  "downloads": 38146,
+  "likes": 492
+ },
+ {
+  "rank": 980,
+  "id": "bartowski/EVA-Qwen2.5-14B-v0.2-GGUF",
+  "downloads": 38141,
+  "likes": 14
+ },
+ {
+  "rank": 981,
+  "id": "prism-ml/Bonsai-1.7B-gguf",
+  "downloads": 38127,
+  "likes": 83
+ },
+ {
+  "rank": 982,
+  "id": "jica98/qwen3.5-4B-super-coder",
+  "downloads": 37890,
+  "likes": 54
+ },
+ {
+  "rank": 983,
+  "id": "TrevorJS/gemma-4-26B-A4B-it-uncensored",
+  "downloads": 37699,
+  "likes": 58
+ },
+ {
+  "rank": 984,
+  "id": "LordNeel/Agents-A1-GGUF",
+  "downloads": 37683,
+  "likes": 15
+ },
+ {
+  "rank": 985,
+  "id": "bigcode/gpt_bigcode-santacoder",
+  "downloads": 37661,
+  "likes": 28
+ },
+ {
+  "rank": 986,
+  "id": "kyujinpy/Ko-PlatYi-6B",
+  "downloads": 37530,
+  "likes": 7
+ },
+ {
+  "rank": 987,
+  "id": "MaziyarPanahi/NVIDIA-Nemotron-Nano-12B-v2-GGUF",
+  "downloads": 37500,
+  "likes": 4
+ },
+ {
+  "rank": 988,
+  "id": "allenai/Olmo-3-7B-Think",
+  "downloads": 37475,
+  "likes": 103
+ },
+ {
+  "rank": 989,
+  "id": "MaziyarPanahi/Qwen3-4B-Thinking-2507-GGUF",
+  "downloads": 37450,
+  "likes": 2
+ },
+ {
+  "rank": 990,
+  "id": "zai-org/GLM-4.7-FP8",
+  "downloads": 37391,
+  "likes": 124
+ },
+ {
+  "rank": 991,
+  "id": "nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4",
+  "downloads": 37364,
+  "likes": 43
+ },
+ {
+  "rank": 992,
+  "id": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit",
+  "downloads": 37269,
+  "likes": 4
+ },
+ {
+  "rank": 993,
+  "id": "tartuNLP/Llammas-base-p1-GPT-4o-human-error-mix-paragraph-GEC",
+  "downloads": 37262,
+  "likes": 0
+ },
+ {
+  "rank": 994,
+  "id": "Qwen/Qwen2.5-Coder-3B",
+  "downloads": 37155,
+  "likes": 57
+ },
+ {
+  "rank": 995,
+  "id": "DreamFast/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark",
+  "downloads": 36926,
+  "likes": 9
+ },
+ {
+  "rank": 996,
+  "id": "google/functiongemma-270m-it",
+  "downloads": 36844,
+  "likes": 1040
+ },
+ {
+  "rank": 997,
+  "id": "bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF",
+  "downloads": 36697,
+  "likes": 241
+ },
+ {
+  "rank": 998,
+  "id": "Brian6145/Qwen3.6-27B-Claude-Opus-DeepSeek-Distilled-Imatrix-MTP-GGUF",
+  "downloads": 36661,
+  "likes": 16
+ },
+ {
+  "rank": 999,
+  "id": "MaziyarPanahi/Ministral-3-14B-Reasoning-2512-GGUF",
+  "downloads": 36318,
+  "likes": 1
+ }
+]

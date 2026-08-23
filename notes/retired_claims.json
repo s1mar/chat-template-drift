@@ -1,0 +1,26 @@
+[
+ {
+  "id": "zero_behavioural",
+  "round": "pre-r1",
+  "pattern": "no\\s+template\\s+edits?\\s+(?:change|alter)s?\\s+(?:what|behaviour)",
+  "reason": "The first analysis reported zero behavioural changes out of 289 events. That was a missing import making every Jinja render fail, not a result. The true value is roughly half of decidable events. This claim must never return."
+ },
+ {
+  "id": "cosmetic_conclusion",
+  "round": "pre-r1",
+  "pattern": "template\\s+edits?\\s+(?:are|is)\\s+(?:purely\\s+)?cosmetic",
+  "reason": "Same defect as zero_behavioural. Half of decidable edits change what the model is shown."
+ },
+ {
+  "id": "blast_radius_finding",
+  "round": "pre-r1",
+  "pattern": "(?:bystander|collateral)\\s+functions?\\s+(?:were|are)\\s+broken",
+  "reason": "An abandoned pilot appeared to show 16.7% of untouched functions broken by a whole-file edit. Every one of those breakages was the output-token cap truncating the reply. With the cap raised the rate was 0.0%. That study was abandoned by its own pre-registered stopping rule and none of its numbers may appear here."
+ },
+ {
+  "id": "uninformative_as_null",
+  "round": "pre-r1",
+  "pattern": "identical\\s+rendered\\s+prompts?\\s+(?:shows?|demonstrates?|means?)\\s+(?:no|zero)\\s+effect",
+  "reason": "A template pair that renders this conversation identically varies nothing, so it is not evidence of no effect. Amendment A5 excludes such pairs as uninformative; they must not be reported as nulls."
+ }
+]

@@ -1,0 +1,342 @@
+[
+ {
+  "repo": "Qwen/Qwen2.5-7B-Instruct",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 187,
+    "our_len": 187
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 145,
+    "our_len": 145
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 264,
+    "our_len": 264
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 181,
+    "our_len": 181
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 159,
+    "our_len": 159
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 186,
+    "our_len": 186
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "Qwen/Qwen2.5-Coder-7B-Instruct",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 187,
+    "our_len": 187
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 145,
+    "our_len": 145
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 264,
+    "our_len": 264
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 181,
+    "our_len": 181
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 159,
+    "our_len": 159
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 186,
+    "our_len": 186
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "microsoft/Phi-3-mini-4k-instruct",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 70,
+    "our_len": 70
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 115,
+    "our_len": 115
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 212,
+    "our_len": 212
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 64,
+    "our_len": 64
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 63,
+    "our_len": 63
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 156,
+    "our_len": 156
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "HuggingFaceH4/zephyr-7b-beta",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 67,
+    "our_len": 67
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 109,
+    "our_len": 109
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 200,
+    "our_len": 200
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 61,
+    "our_len": 61
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 47,
+    "our_len": 47
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 150,
+    "our_len": 150
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "NousResearch/Meta-Llama-3-8B-Instruct",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 155,
+    "our_len": 155
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 235,
+    "our_len": 235
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 402,
+    "our_len": 402
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 149,
+    "our_len": 149
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 102,
+    "our_len": 102
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 276,
+    "our_len": 276
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "teknium/OpenHermes-2.5-Mistral-7B",
+  "skipped": "tokenizer load failed: `tiktoken` is required to read a `tiktoken` file. Install it with `pip install tiktoken`."
+ },
+ {
+  "repo": "deepseek-ai/deepseek-coder-6.7b-instruct",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 389,
+    "our_len": 389
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 118,
+    "our_len": 118
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 217,
+    "our_len": 217
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 383,
+    "our_len": 383
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 369,
+    "our_len": 369
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 159,
+    "our_len": 159
+   }
+  },
+  "ok": true
+ },
+ {
+  "repo": "mistralai/Mistral-7B-Instruct-v0.2",
+  "probes": {
+   "user_only": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 58,
+    "our_len": 58
+   },
+   "system_user": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 86,
+    "our_len": 86
+   },
+   "multi_turn": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 165,
+    "our_len": 165
+   },
+   "genprompt_true": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 52,
+    "our_len": 52
+   },
+   "genprompt_false": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 52,
+    "our_len": 52
+   },
+   "contract": {
+    "match": true,
+    "ref_error": null,
+    "our_error": null,
+    "ref_len": 127,
+    "our_len": 127
+   }
+  },
+  "ok": true
+ }
+]

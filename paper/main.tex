@@ -1,0 +1,104 @@
+%% CAMERA-READY (accepted 2026-08-23 as PROMPTOPS 2026 paper 16; CR deadline 1 Sep 2026 per the
+%% 2026-08-24 follow-up email, page limit strictly 8 INCLUDING references per the same email).
+%% [review,anonymous] dropped and the author block added for the camera-ready; the rights block
+%% (\setcopyright, DOI, ISBN, \acmSubmissionID) is inserted with the owner when the author-kit /
+%% ACM rights email arrives. Until then \setcopyright{none} + printacmref=false are placeholders,
+%% the same interim state paper 195 used before its rights confirmation.
+\documentclass[sigconf,screen]{acmart}
+% Suppress /PTEX.FileName comments in the PDF: they carry the include path of every figure into
+% the shipped bytes, which is how a username reached a published PDF once (LEARNINGS BN3).
+\pdfsuppressptexinfo=-1
+
+\AtBeginDocument{%
+  \providecommand\BibTeX{{\normalfont B\kern-0.5em{\scshape i\kern-0.25em b}\kern-0.8em\TeX}}}
+% MEASURED INERT 2026-08-31, kept only so a future reader does not re-add it believing it works:
+% acmart's \maketitle sets the page style itself, so a \pagestyle in the PREAMBLE has no effect
+% (BH5's remedy for a fabricated running head requires \pagestyle AFTER \maketitle). Built both
+% ways: 8 pages, 0 errors, rendered text byte-identical. The camera-ready WANTS acmart's standard
+% running head, because the venue string is now real and fetched, so nothing here needs suppressing.
+\pagestyle{plain}
+
+% RIGHTS BLOCK. Supplied by the ACM eRights system for paper asews26povcmain-p16-p and inserted
+% VERBATIM on 2026-08-31. Do not retype, reflow or "correct" any string in it: the publisher's
+% block supersedes the venue's own web branding and this file's earlier fetched strings
+% (LEARNINGS BN4, BO15). Two consequences worth knowing before editing anything below.
+%   1. The ACM proceedings title is "Proceedings of the 1st International Workshop on PromptOps
+%      and Vibe Coding", which is NOT the workshop's web branding ("PROMPTOPS 2026: Engineering
+%      Reliable AI-Augmented Software Development") that this file carried through review. Both
+%      are real strings for different objects; the rights system is authoritative for the
+%      proceedings, so consistency.py now asserts equality with THESE strings and its old
+%      "International Workshop on must not appear" clause has been retired.
+%   2. \setcopyright{cc} + \setcctype{by} pull the doclicense CC badge as an included PDF, whose
+%      absolute path pdfTeX would otherwise write into the shipped bytes as /PTEX.FileName. That
+%      is the LEARNINGS BN3 username leak; \pdfsuppressptexinfo=-1 above prevents it and
+%      papertools/pdf_production_check.py verifies the bytes after every build.
+% Unchanged and still fetched facts: dates October 12-16 2026, Munich Germany; page limit strictly
+% 8 INCLUDING references (2026-08-24 chairs' email, re-confirmed on the venue page 2026-08-31).
+\copyrightyear{2026}
+\acmYear{2026}
+\setcopyright{cc}
+\setcctype{by}
+\acmConference[POVC '26]{Proceedings of the 1st International Workshop on PromptOps and Vibe Coding}{October 12--16, 2026}{Munich, Germany}
+\acmBooktitle{Proceedings of the 1st International Workshop on PromptOps and Vibe Coding (POVC '26), October 12--16, 2026, Munich, Germany}
+\acmDOI{10.1145/3843779.3844636}
+\acmISBN{979-8-4007-2991-1/2026/10}
+
+\usepackage{booktabs}
+\usepackage{balance}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{xspace}
+% Every generated macro ends in \xspace. Without it LaTeX swallows the space that terminates a
+% control-sequence name, so "\PctDrift points" renders as "43.8points". The build log is clean
+% either way, which is why this is enforced by the gate and checked again on the rendered text.
+\xspaceaddexceptions{\% ] \\ }
+% \lit marks a number quoted from a cited source, so the build gate can tell it apart from one of
+% ours, every one of which must come from a generated macro.
+\newcommand{\lit}[1]{#1}
+
+\input{macros}
+
+\begin{document}
+
+\title{\PaperTitle}
+
+\author{Simarjot Khanna}
+\affiliation{%
+  \institution{Independent Researcher}
+  \country{Canada}
+}
+\email{simarkhanna76@gmail.com}
+
+\begin{abstract}
+\input{abstract}
+\end{abstract}
+
+\begin{CCSXML}
+<ccs2012>
+<concept>
+<concept_id>10011007.10011074.10011099</concept_id>
+<concept_desc>Software and its engineering~Software verification and validation</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+<concept>
+<concept_id>10011007.10011006.10011071</concept_id>
+<concept_desc>Software and its engineering~Software configuration management and version control systems</concept_desc>
+<concept_significance>500</concept_significance>
+</concept>
+</ccs2012>
+\end{CCSXML}
+\ccsdesc[500]{Software and its engineering~Software verification and validation}
+\ccsdesc[500]{Software and its engineering~Software configuration management and version control systems}
+
+\keywords{PromptOps, chat templates, prompt versioning, drift detection, open-weight models,
+reproducibility}
+
+\maketitle
+
+\input{body}
+
+\balance
+\bibliographystyle{ACM-Reference-Format}
+\bibliography{refs}
+
+\end{document}

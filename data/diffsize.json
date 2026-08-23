@@ -1,0 +1,10 @@
+{
+ "n_cosmetic": 136,
+ "n_behavioural": 137,
+ "median_abs_len_cosmetic": 52,
+ "median_abs_len_behavioural": 86,
+ "max_abs_len_cosmetic": 4403,
+ "max_abs_len_behavioural": 13733,
+ "n_behavioural_zero_len_change": 5,
+ "auc_len_delta": 0.575
+}
